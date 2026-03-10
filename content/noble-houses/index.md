@@ -14,7 +14,13 @@ Dynastic lineages with social and political weight.
 - [[nations-realms/amn|Amn]] → [[noble-houses/house-de-lyr|House de'Lyr]]
 - [[nations-realms/cormyr|Cormyr]] → [[noble-houses/house-obarskyr|House Obarskyr]]
 
+## Expansion Pattern
+- Add houses only when they create immediate play value.
+- Tie each house to one nation page and one person page.
+- Keep deeper genealogies optional and campaign-specific.
+
 ## Related
 - [[nations-realms/index|Nations & Realms]]
 - [[settlements/index|Settlements]]
 - [[people/index|People]]
+- [[factions/index|Factions]]

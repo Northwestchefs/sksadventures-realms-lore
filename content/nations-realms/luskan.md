@@ -66,5 +66,5 @@ Use Luskan for border diplomacy, faction bargaining, travel logistics, and regio
 - [[nations-realms/index|Nations & Realms]]
 - [[nations-realms/luruar|Luruar (Silver Marches)]]
 - [[nations-realms/moonshae-isles|Moonshae Isles]]
-- [[settlements/index|Settlements]]
+- [[settlements/luskan-city|Luskan (City)]]
 - [[factions/index|Factions]]
