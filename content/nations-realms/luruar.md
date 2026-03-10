@@ -20,7 +20,7 @@ Luruar (Silver Marches) is treated here as a nation-scale realm entry for campai
 A named confederation in the North, with shared defense institutions among member cities and realms.
 
 ## Geography
-Covers mountain, forest, and river corridors of the North around [[settlements/index|Silverymoon]].
+Covers mountain, forest, and river corridors of the North around [[settlements/silverymoon|Silverymoon]].
 
 ## Government
 Confederal governance relies on treaties, councils, and member commitments rather than direct unitary rule.
@@ -39,7 +39,7 @@ Joint operations, mutual aid clauses, and coordinated patrols define military st
 
 ## Major Settlements
 - [[settlements/silverymoon|Silverymoon]]
-- [[settlements/index|Sundabar]] (detail page TBD)
+- [[settlements/sundabar|Sundabar]]
 
 ## Factions and Power Blocs
 - Confederation council blocs
@@ -67,4 +67,5 @@ Use Luruar (Silver Marches) for border diplomacy, faction bargaining, travel log
 - [[nations-realms/luskan|Luskan]]
 - [[nations-realms/moonshae-isles|Moonshae Isles]]
 - [[settlements/index|Settlements]]
+- [[settlements/sundabar|Sundabar]]
 - [[factions/index|Factions]]

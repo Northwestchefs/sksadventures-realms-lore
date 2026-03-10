@@ -39,7 +39,7 @@ Maintains professional garrisons, naval assets, and contracted auxiliaries for t
 
 ## Major Settlements
 - [[settlements/calimport|Calimport]]
-- Memnon (detail page TBD)
+- [[settlements/memnon|Memnon]]
 
 ## Factions and Power Blocs
 - Old noble-financier dynasties
@@ -67,4 +67,5 @@ Use Calimshan for border diplomacy, faction bargaining, travel logistics, and re
 - [[nations-realms/tethyr|Tethyr]]
 - [[nations-realms/lapaliiya|Lapaliiya]]
 - [[settlements/calimport|Calimport]]
+- [[settlements/memnon|Memnon]]
 - [[factions/index|Factions]]

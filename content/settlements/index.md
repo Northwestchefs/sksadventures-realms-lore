@@ -12,6 +12,7 @@ Cities, ports, market towns, and strongholds with immediate adventure value.
 - [[settlements/waterdeep-city|Waterdeep (City)]]
 - [[settlements/luskan-city|Luskan (City)]]
 - [[settlements/silverymoon|Silverymoon]]
+- [[settlements/sundabar|Sundabar]]
 
 ## Western Heartlands and Amn
 - [[settlements/darromar|Darromar]]
@@ -49,13 +50,14 @@ Cities, ports, market towns, and strongholds with immediate adventure value.
 
 ## South and Old Empires Gateways
 - [[settlements/calimport|Calimport]]
+- [[settlements/memnon|Memnon]]
 - [[settlements/port-nyanzaru|Port Nyanzaru]]
 
 ## Browse by Nation
 - [[nations-realms/amn|Amn]] → [[settlements/athkatla|Athkatla]], [[settlements/murann|Murann]], [[settlements/trademeet|Trademeet]], [[settlements/crimmor|Crimmor]], [[settlements/esmeltaran|Esmeltaran]]
 - [[nations-realms/cormyr|Cormyr]] → [[settlements/suzail|Suzail]]
 - [[nations-realms/dalelands|Dalelands]] → [[settlements/shadowdale|Shadowdale]]
-- [[nations-realms/luruar|Luruar (Silver Marches)]] → [[settlements/silverymoon|Silverymoon]]
+- [[nations-realms/luruar|Luruar (Silver Marches)]] → [[settlements/silverymoon|Silverymoon]], [[settlements/sundabar|Sundabar]]
 - [[nations-realms/tethyr|Tethyr]] → [[settlements/darromar|Darromar]], [[settlements/zazesspur|Zazesspur]]
 - [[nations-realms/sembia|Sembia]] → [[settlements/selgaunt|Selgaunt]]
 - [[nations-realms/aglarond|Aglarond]] → [[settlements/velprintalar|Velprintalar]], [[settlements/glarondar|Glarondar]], [[settlements/delthuntle|Delthuntle]]
@@ -65,6 +67,7 @@ Cities, ports, market towns, and strongholds with immediate adventure value.
 - [[nations-realms/impiltur|Impiltur]] → [[settlements/lyrabar|Lyrabar]], [[settlements/sarshel|Sarshel]]
 - [[nations-realms/mulhorand|Mulhorand]] → [[settlements/skuld|Skuld]], [[settlements/neldorild|Neldorild]]
 - [[nations-realms/unther|Unther]] → [[settlements/unthalass|Unthalass]], [[settlements/messemprar|Messemprar]]
+- [[nations-realms/calimshan|Calimshan]] → [[settlements/calimport|Calimport]], [[settlements/memnon|Memnon]]
 - [[nations-realms/chondath|Chondath]] → [[settlements/arrabar|Arrabar]], [[settlements/hlondeth|Hlondeth]]
 - [[nations-realms/chessenta|Chessenta]] → [[settlements/cimbar|Cimbar]], [[settlements/luthcheq|Luthcheq]]
 
