@@ -1,0 +1,60 @@
+---
+title: NPC Import Statblock Standard
+tags:
+  - reference
+  - npc
+  - statblock
+---
+
+# NPC Import Statblock Standard
+
+Use this format for the `## Import Statblock` section on every NPC page. This standard is optimized for plain-text copy/paste into Foundry VTT 5e statblock importer workflows.
+
+## Rules
+- Keep statblocks in a fenced `text` code block.
+- Keep mechanics only; no lore paragraphs in this section.
+- Do not use tables, columns, infoboxes, or decorative layouts.
+- Keep line labels and section headers in the same order every time.
+- Use recognizable 5e wording: `Melee Weapon Attack:`, `Ranged Weapon Attack:`, `Hit:`, `Spellcasting.`, `Innate Spellcasting.`
+- If a section does not apply, write `None.`
+
+## Required Field Order
+```text
+Name:
+Size, type, alignment:
+Armor Class:
+Hit Points:
+Speed:
+STR ... DEX ... CON ... INT ... WIS ... CHA ...
+Saving Throws:
+Skills:
+Damage Vulnerabilities:
+Damage Resistances:
+Damage Immunities:
+Condition Immunities:
+Senses:
+Languages:
+Challenge:
+Proficiency Bonus:
+
+Traits
+
+Actions
+
+Bonus Actions
+
+Reactions
+
+Legendary Actions
+
+Spellcasting
+```
+
+## Spellcasting Notes
+- Use `Spellcasting.` when the NPC prepares/casts spells normally.
+- Use `Innate Spellcasting.` when abilities are innate.
+- If both apply, include both entries under the final `Spellcasting` section.
+
+## Where to Use
+- Build new NPC pages from [[templates/person-npc-template|Person NPC Template]].
+- Keep NPC page structure aligned with [[people/index|People]] guidance.
