@@ -16,43 +16,45 @@ One short paragraph (2-4 lines) on who this person is and why they matter in pla
 - **Secondary Ties:**
 - **Base of Operations:**
 
-## Statblock
-> Keep mechanics separate from lore. If canon stats vary, use broad campaign-ready values.
+## Import Statblock
+```text
+Name: {{Person Name}}
+Size, type, alignment: Medium humanoid (human), neutral
+Armor Class: 10
+Hit Points: 9 (2d8)
+Speed: 30 ft.
+STR 10 (+0) DEX 10 (+0) CON 10 (+0) INT 10 (+0) WIS 10 (+0) CHA 10 (+0)
+Saving Throws: None
+Skills: None
+Damage Vulnerabilities: None
+Damage Resistances: None
+Damage Immunities: None
+Condition Immunities: None
+Senses: passive Perception 10
+Languages: Common
+Challenge: 0 (10 XP)
+Proficiency Bonus: +2
 
-### Core Statblock Fields (WotC-style order)
-- **Size**
-- **Type**
-- **Alignment**
-- **Armor Class**
-- **Hit Points**
-- **Speed**
-- **STR**
-- **DEX**
-- **CON**
-- **INT**
-- **WIS**
-- **CHA**
-- **Saving Throws**
-- **Skills**
-- **Damage Vulnerabilities**
-- **Damage Resistances**
-- **Damage Immunities**
-- **Condition Immunities**
-- **Senses**
-- **Languages**
-- **Challenge**
-- **Proficiency Bonus**
+Traits
+None.
 
-### Optional Combat Blocks
-- **Traits**
-- **Actions**
-- **Bonus Actions**
-- **Reactions**
-- **Legendary Actions**
-- **Mythic Actions**
-- **Lair Actions / Regional Effects**
+Actions
+Dagger. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 
-> If optional combat blocks are not needed, omit them instead of adding filler text.
+Bonus Actions
+None.
+
+Reactions
+None.
+
+Legendary Actions
+None.
+
+Spellcasting
+None.
+```
+
+Use the exact field order above for every NPC page. Keep this section plain-text and parser-friendly for copy/paste workflows. Do not add lore paragraphs inside this section.
 
 ## Description
 - Appearance, style, and table-facing identifiers.
@@ -67,7 +69,10 @@ One short paragraph (2-4 lines) on who this person is and why they matter in pla
 - [[factions/index|Factions]]
 - [[noble-houses/index|Noble Houses]]
 - [[nations-realms/index|Nations & Realms]]
+- [[regions/index|Regions]]
 - [[settlements/index|Settlements]]
+- [[faiths/index|Faiths]]
+- [[landmarks/index|Landmarks]]
 
 ## Plot Hooks
 - Immediate way this NPC can hire, pressure, reward, or mislead the party.
