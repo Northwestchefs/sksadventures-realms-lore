@@ -12,6 +12,6 @@ Lineages with social, political, or economic power.
 - Alliances and rivalries
 - Notable members
 
-## Future example path
+## Current entries
 
-- House de La Sunya can be added here and linked to Athkatla, Amn, and Helm.
+- [[noble-houses/house-de-lyr|House de'Lyr]]
