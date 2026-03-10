@@ -38,7 +38,7 @@ Add major temples, patron deities of commerce, and points of friction between fa
 Defense can include city militias, hired companies, and security forces aligned with major economic actors.
 
 ## Major Settlements
-- [[settlements/index|Selgaunt]] (capital; detail page TBD)
+- [[settlements/selgaunt|Selgaunt]] (capital)
 - Additional trade cities and caravan hubs (TBD)
 
 ## Factions and Power Blocs
@@ -67,3 +67,5 @@ Sembia supports financial intrigue, white-collar crime plots, mercantile diploma
 - [[nations-realms/index|Nations & Realms]]
 - [[factions/index|Factions]]
 - [[regions/index|Regions]]
+- [[faiths/waukeen|Waukeen]]
+- [[factions/zhentarim|Zhentarim]]

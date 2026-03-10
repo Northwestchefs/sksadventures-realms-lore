@@ -33,8 +33,12 @@ A lightweight vault map for browsing lore in layers.
 - [[player-resources/index|Player Resources]]
 - [[templates/nation-template|Templates]]
 
-## Fast Paths
+## Browse by Campaign Style
+- **City intrigue:** [[settlements/index|Settlements]] → [[factions/index|Factions]] → [[people/index|People]]
+- **Regional travel:** [[regions/index|Regions]] → [[nations-realms/index|Nations & Realms]] → [[landmarks/index|Landmarks]]
+- **Religion and politics:** [[faiths/index|Faiths]] → [[nations-realms/index|Nations & Realms]] → [[factions/index|Factions]]
 
-- Running a city adventure? Start at [[settlements/index|Settlements]] and jump to nation and faction links.
-- Building regional travel arcs? Start at [[regions/index|Regions]], then hop into connected realms.
-- Need political tension quickly? Use [[nations-realms/index|Nations & Realms]] + [[factions/index|Factions]].
+## Current Growth Focus
+- Nation-level scaffolds with strong jump links to settlements and factions.
+- High-value city stubs tied to existing nation pages.
+- Hub-first navigation that is easy to expand without rewriting structure.

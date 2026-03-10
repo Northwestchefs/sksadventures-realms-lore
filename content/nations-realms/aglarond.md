@@ -38,7 +38,7 @@ Local temple life tends toward pragmatic, protective faith practice in communiti
 Border watchers, naval patrols, and local militias focus on deterrence and rapid response.
 
 ## Major Settlements
-- [[settlements/index|Velprintalar]] (detail page TBD)
+- [[settlements/velprintalar|Velprintalar]] (capital)
 - [[settlements/index|Glarondar]] (detail page TBD)
 
 ## Factions and Power Blocs
@@ -64,6 +64,7 @@ Use Aglarond for border diplomacy, faction bargaining, travel logistics, and reg
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
+- [[settlements/velprintalar|Velprintalar]]
 - [[nations-realms/thay|Thay]]
 - [[nations-realms/chondath|Chondath]]
 - [[settlements/index|Settlements]]

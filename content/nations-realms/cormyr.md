@@ -38,7 +38,7 @@ Document prominent faiths, royal patronage of temples, and any doctrinal conflic
 Professional troops and trained officers provide national defense and project royal authority.
 
 ## Major Settlements
-- [[settlements/index|Suzail]] (capital; detail page TBD)
+- [[settlements/suzail|Suzail]] (capital)
 - Additional royal towns, fortresses, and border keeps (TBD)
 
 ## Factions and Power Blocs

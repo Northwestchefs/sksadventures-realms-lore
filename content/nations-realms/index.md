@@ -10,6 +10,12 @@ tags:
 
 Nation-scale political entities for campaign diplomacy, travel pressure, and faction play.
 
+## Quick Jump by Region
+- [[regions/sword-coast|Sword Coast]]
+- [[regions/western-heartlands|Western Heartlands]]
+- [[regions/unapproachable-east|Unapproachable East]]
+- [[regions/old-empires|Old Empires]]
+
 ## Sword Coast and Western Realms
 - [[nations-realms/amn|Amn]]
 - [[nations-realms/baldurs-gate|Baldur's Gate]]
@@ -56,8 +62,14 @@ Nation-scale political entities for campaign diplomacy, travel pressure, and fac
 - [[nations-realms/evermeet|Evermeet]]
 - [[nations-realms/nimbral|Nimbral]]
 
+## Structural Expansion Targets
+- Build settlement stubs where nation pages still show `detail page TBD`.
+- Add one faction or people stub when a nation has strong active power blocs.
+- Keep nation pages broad; push local detail to [[settlements/index|Settlements]] and [[regions/index|Regions]].
+
 ## Related Hubs
 - [[regions/index|Regions]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]
 - [[faiths/index|Faiths]]
+- [[people/index|People]]

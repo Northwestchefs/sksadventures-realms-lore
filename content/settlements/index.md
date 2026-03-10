@@ -18,10 +18,21 @@ Cities, ports, market towns, and strongholds with immediate adventure value.
 - [[settlements/trademeet|Trademeet]]
 - [[settlements/suzail|Suzail]]
 
-## South and East Gateways
+## Sea of Fallen Stars and the East
+- [[settlements/selgaunt|Selgaunt]]
+- [[settlements/velprintalar|Velprintalar]]
+- [[settlements/eltabbar|Eltabbar]]
+
+## South and Old Empires Gateways
 - [[settlements/calimport|Calimport]]
 - [[settlements/port-nyanzaru|Port Nyanzaru]]
-- [[settlements/eltabbar|Eltabbar]]
+
+## Browse by Nation
+- [[nations-realms/amn|Amn]] → [[settlements/athkatla|Athkatla]], [[settlements/murann|Murann]], [[settlements/trademeet|Trademeet]]
+- [[nations-realms/cormyr|Cormyr]] → [[settlements/suzail|Suzail]]
+- [[nations-realms/sembia|Sembia]] → [[settlements/selgaunt|Selgaunt]]
+- [[nations-realms/aglarond|Aglarond]] → [[settlements/velprintalar|Velprintalar]]
+- [[nations-realms/thay|Thay]] → [[settlements/eltabbar|Eltabbar]]
 
 ## Use at the Table
 - Start with the settlement page, then follow nation and faction links.

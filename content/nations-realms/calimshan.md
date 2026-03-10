@@ -66,5 +66,5 @@ Use Calimshan for border diplomacy, faction bargaining, travel logistics, and re
 - [[nations-realms/index|Nations & Realms]]
 - [[nations-realms/tethyr|Tethyr]]
 - [[nations-realms/lapaliiya|Lapaliiya]]
-- [[settlements/index|Settlements]]
+- [[settlements/calimport|Calimport]]
 - [[factions/index|Factions]]
