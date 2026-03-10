@@ -12,6 +12,8 @@ Cities, towns, and notable inhabited locations.
 - Leadership and power groups
 - Temples, guilds, and daily life
 
-## Future example path
+## Current entries
 
-- Athkatla can be added here and linked to [[nations-realms/index|Amn]] once created.
+- [[settlements/athkatla|Athkatla]]
+- [[settlements/trademeet|Trademeet]]
+- [[settlements/murann|Murann]]
