@@ -25,6 +25,14 @@ Cities, ports, market towns, and strongholds with immediate adventure value.
 - [[settlements/velprintalar|Velprintalar]]
 - [[settlements/eltabbar|Eltabbar]]
 
+## Old Empires and Chessentan Basin
+- [[settlements/skuld|Skuld]]
+- [[settlements/neldorild|Neldorild]]
+- [[settlements/unthalass|Unthalass]]
+- [[settlements/messemprar|Messemprar]]
+- [[settlements/cimbar|Cimbar]]
+- [[settlements/luthcheq|Luthcheq]]
+
 ## South and Old Empires Gateways
 - [[settlements/calimport|Calimport]]
 - [[settlements/port-nyanzaru|Port Nyanzaru]]
@@ -37,6 +45,9 @@ Cities, ports, market towns, and strongholds with immediate adventure value.
 - [[nations-realms/sembia|Sembia]] → [[settlements/selgaunt|Selgaunt]]
 - [[nations-realms/aglarond|Aglarond]] → [[settlements/velprintalar|Velprintalar]]
 - [[nations-realms/thay|Thay]] → [[settlements/eltabbar|Eltabbar]]
+- [[nations-realms/mulhorand|Mulhorand]] → [[settlements/skuld|Skuld]], [[settlements/neldorild|Neldorild]]
+- [[nations-realms/unther|Unther]] → [[settlements/unthalass|Unthalass]], [[settlements/messemprar|Messemprar]]
+- [[nations-realms/chessenta|Chessenta]] → [[settlements/cimbar|Cimbar]], [[settlements/luthcheq|Luthcheq]]
 
 ## Use at the Table
 - Start with the settlement page, then follow nation and faction links.
