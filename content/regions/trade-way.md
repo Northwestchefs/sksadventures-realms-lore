@@ -11,22 +11,38 @@ tags:
 # Trade Way
 
 ## Overview
-The Trade Way is a major overland corridor linking multiple western powers. In Amnian campaigns, it is where tariffs, convoy contracts, and road security become political weapons.
+A major overland corridor linking Sword Coast ports and inland powers, where logistics, toll rights, and road security shape regional politics.
 
-## Amn Connection
-- feeds goods into [[settlements/crimmor|Crimmor]] and [[settlements/trademeet|Trademeet]]
-- ties inland production to [[settlements/athkatla|Athkatla]] export markets
-- creates constant friction with neighbors over tolls and armed escorts
+## Route Nodes
+- Northern access through [[settlements/waterdeep-city|Waterdeep (City)]] and nearby feeder roads.
+- Mid-route staging near [[settlements/baldurs-gate-city|Baldur's Gate (City)]], where tariffs and permits are heavily contested.
+- Southern and inland flow tied to [[nations-realms/amn|Amn]], especially [[settlements/crimmor|Crimmor]], [[settlements/trademeet|Trademeet]], and [[settlements/athkatla|Athkatla]].
+- Coastal branches connecting to [[settlements/neverwinter-city|Neverwinter (City)]] and northern shipment plans.
 
-## Pressure Points
-- banditry and staged raids tied to insurance fraud
-- disputed road jurisdiction near border zones
-- labor shortages and price shocks after route disruption
+## Political and Economic Context
+- Road access is rarely neutral; escort rights and toll exemptions are negotiated assets.
+- Merchant cost spikes on the route can trigger urban unrest far from the original disruption.
+- Border authorities, chartered caravans, and local strongmen each claim different enforcement authority.
 
-## Campaign Themes
-Convoy operations, overland diplomacy, road law disputes, and faction races to secure seasonal routes.
+## Travel Complications
+- Staged raids and false-flag attacks aimed at insurance payouts or political leverage.
+- Weather damage, bridge failures, and washouts forcing reroutes through vulnerable settlements.
+- Jurisdiction disputes that can detain caravans even when no crime is proven.
+- Sudden labor shortages that leave wagons stranded and cargo exposed.
+
+## Escort and Convoy Hooks
+- A convoy master hires neutral guards after two partner cities issue contradictory travel papers.
+- Roadwardens request discreet help identifying who keeps tipping raiders to high-value routes.
+- A caravan of relief grain must pass through hostile toll territory before a famine deadline.
+- An "accidental" bridge collapse traps rival merchant houses in the same camp under armed tension.
+
+## At-the-Table Use
+- Run it as a moving political frontier rather than a simple transit line.
+- Use each node as a change in law, faction presence, and acceptable force.
+- Escalate from local incidents (missing wagons, permit disputes) to city-level consequences.
 
 ## See Also
+- [[regions/sword-coast|Sword Coast]]
 - [[nations-realms/amn|Amn]]
 - [[regions/western-heartlands|Western Heartlands]]
 - [[nations-realms/tethyr|Tethyr]]
