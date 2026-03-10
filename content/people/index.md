@@ -23,6 +23,20 @@ Public figures, rulers, and influential operators likely to matter in play.
 - Keep entries short: profile, alliances, leverage, hooks.
 - Link each person to a nation, one settlement, and one faction where possible.
 
+## NPC Page Standard
+- Build all new NPC entries from [[templates/person-npc-template|Person NPC Template]].
+- Keep this section order on each NPC page:
+  1. Overview
+  2. Role / Allegiance
+  3. Statblock
+  4. Description
+  5. History / Background
+  6. Relationships
+  7. Plot Hooks
+  8. Related Links
+- Keep the **Statblock** in consistent WotC-style field order from the template.
+- Keep lore concise and mechanics in the Statblock section only.
+
 ## Related
 - [[factions/index|Factions]]
 - [[noble-houses/index|Noble Houses]]
