@@ -38,8 +38,8 @@ Religion is state-visible and politically central, influencing law and legitimac
 Large organized armies, chariot/cavalry traditions, and fortified river positions define strategy.
 
 ## Major Settlements
-- [[settlements/index|Skuld]] (detail page TBD)
-- [[settlements/index|Neldorild]] (detail page TBD)
+- [[settlements/skuld|Skuld]]
+- [[settlements/neldorild|Neldorild]]
 
 ## Factions and Power Blocs
 - Imperial court and ministries

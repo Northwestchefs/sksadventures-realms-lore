@@ -38,8 +38,8 @@ Public cult practice can be highly civic, with temples tied to city identity and
 Heavy reliance on disciplined city forces, veteran officers, and contracted specialists.
 
 ## Major Settlements
-- [[settlements/index|Cimbar]] (detail page TBD)
-- [[settlements/index|Luthcheq]] (detail page TBD)
+- [[settlements/cimbar|Cimbar]]
+- [[settlements/luthcheq|Luthcheq]]
 
 ## Factions and Power Blocs
 - Competing city councils

@@ -38,8 +38,8 @@ State religion and temple politics remain central to sovereignty debates.
 Forces prioritize border holding, city control, and deterrence against stronger neighbors.
 
 ## Major Settlements
-- [[settlements/index|Unthalass]] (detail page TBD)
-- [[settlements/index|Messemprar]] (detail page TBD)
+- [[settlements/unthalass|Unthalass]]
+- [[settlements/messemprar|Messemprar]]
 
 ## Factions and Power Blocs
 - Imperial loyalists and restorationists
