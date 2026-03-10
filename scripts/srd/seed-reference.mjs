@@ -129,7 +129,28 @@ const OFFLINE_SEED = {
   ],
 }
 
-const SEED_CONFIG = Object.keys(OFFLINE_SEED)
+const SEED_CONFIG = [
+  "ability-scores",
+  "skills",
+  "conditions",
+  "damage-types",
+  "languages",
+  "equipment-categories",
+  "equipment",
+  "monsters",
+  "spells",
+]
+
+const validateSeedConfig = () => {
+  const configured = new Set(SEED_CONFIG)
+  const available = Object.keys(OFFLINE_SEED)
+
+  for (const endpoint of available) {
+    if (!configured.has(endpoint)) {
+      throw new Error(`Missing endpoint in SEED_CONFIG: ${endpoint}`)
+    }
+  }
+}
 
 const compareText = (a, b) => {
   if (a === b) return 0
@@ -180,6 +201,8 @@ const getLiveItems = async (client, endpoint) => {
 }
 
 const seedReferenceData = async () => {
+  validateSeedConfig()
+
   const client = createSrdClient()
   const collections = {}
 
