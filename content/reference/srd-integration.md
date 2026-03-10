@@ -46,7 +46,11 @@ title: SRD Integration Workflow
   - Local `OFFLINE_SEED` entries are always included as a baseline.
   - Live API entries override matching IDs (`endpoint:index`).
   - Local curated entries are preserved when the live API does not return them (for example, `languages:druidic` and `languages:thieves-cant`).
+  - Endpoint output order is fixed by script configuration (`SEED_CONFIG`) to prevent key-order drift.
   - Collection ordering is stable by name (case-insensitive), then index, then ID.
+- Expected diff behavior on rerun:
+  - `generatedAt` usually changes each run.
+  - Collection contents should remain stable unless upstream SRD API content or local curated seed entries changed.
 - To expand:
   1. Edit the `OFFLINE_SEED` collections in `scripts/srd/seed-reference.mjs`.
   2. Re-run `npm run srd:seed`.
