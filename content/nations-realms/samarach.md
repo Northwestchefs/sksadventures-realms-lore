@@ -17,51 +17,54 @@ capital: Samarach (hidden royal seat)
 Samarach is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A jungle-veiled southern realm treated as politically distinct at map scale.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Dense tropical interior south of major trade coasts, with difficult access and controlled passes.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Governance is centralized but often opaque to outsiders, with layered local authority structures.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Local communities emphasize internal networks, secrecy, and adaptation to harsh terrain.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Specialty goods, controlled caravan routes, and guarded resource zones shape the economy.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Religion is locally grounded and often integrated with political legitimacy and protective customs.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Mobile jungle forces and ambush doctrine are core to defense.
 
 ## Major Settlements
-- [[settlements/index|Samarach]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Samarach Capital]] (detail page TBD)
+- [[settlements/index|Jungle Gate Ports]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Court administrators and regional governors
+- Route-warden military commands
+- Merchant intermediaries approved for external trade
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Keeps measured distance from [[nations-realms/halruaa|Halruaa]] and [[nations-realms/tashalar|Tashalar]], favoring controlled engagement.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Smuggling corridors undermining state control
+- Disease and environmental disasters
+- Foreign interference via trade proxies
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Samarach for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/halruaa|Halruaa]]
+- [[nations-realms/tashalar|Tashalar]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

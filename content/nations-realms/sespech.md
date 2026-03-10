@@ -17,51 +17,54 @@ capital: Akovia
 Sespech is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A small but distinct southern nation-state balancing autonomy against larger mercantile neighbors.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Sits between [[nations-realms/chondath|Chondath]] and [[nations-realms/turmish|Turmish]] on strategic coast and hinterland routes.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Civic governance combines local councils, magistrates, and influential trade families.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Community identity is strong, with urban-rural political bargaining central to stability.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Agricultural exports, coastal trade, and craft production sustain state finances.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Temples help mediate civic disputes and public welfare in smaller settlements.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Compact standing forces and militias focus on deterrence and border security.
 
 ## Major Settlements
-- [[settlements/index|Akovia]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Ormpetarr]] (detail page TBD)
+- [[settlements/index|Semberholme]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- City magistrates and merchant elites
+- Rural landholding blocs
+- Militia command circles
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Navigates pressure from [[nations-realms/chondath|Chondath]] and [[nations-realms/turmish|Turmish]] through diplomacy and trade balancing.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Economic coercion by larger neighbors
+- Internal policy deadlock over alignment
+- Route raids and maritime disruption
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Sespech for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/chondath|Chondath]]
+- [[nations-realms/turmish|Turmish]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

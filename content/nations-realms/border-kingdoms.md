@@ -17,51 +17,54 @@ capital: Varies by polity
 Border Kingdoms is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A patchwork of small polities and frontier lordships treated as a single realm-scale political zone for campaigns.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Located along the southern interior between stronger neighbors, with shifting borders, hill country, and hard-to-police roads.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+No single stable state; authority is fragmented among petty crowns, warlords, and opportunistic councils.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Local loyalties are strong, legitimacy is often personal, and allegiance can change quickly.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Caravan tolls, mercenary contracts, opportunistic trade, and raiding economies coexist.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Faith life is decentralized, with shrines and local temples often aligned to whichever ruler currently controls an area.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Military power is irregular: household troops, sellswords, fort militias, and temporary alliances.
 
 ## Major Settlements
-- [[settlements/index|Varies by polity]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Derlusk]] (detail page TBD)
+- [[settlements/index|Ithmong]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Petty kings and claimant dynasties
+- Mercenary companies and free captains
+- Smuggling and caravan syndicates
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Acts as buffer, battleground, and proxy arena for [[nations-realms/amn|Amn]], [[nations-realms/tethyr|Tethyr]], and [[nations-realms/calimshan|Calimshan]].
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Rapid regime collapse and succession conflict
+- Bandit confederations controlling road networks
+- Foreign-backed coups and frontier wars
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Border Kingdoms for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/tethyr|Tethyr]]
+- [[nations-realms/calimshan|Calimshan]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

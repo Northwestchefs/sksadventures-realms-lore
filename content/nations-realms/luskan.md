@@ -17,51 +17,54 @@ capital: Luskan
 Luskan is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A major city-state polity on the Sword Coast North that functions at nation scale in maritime politics.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Northern Sword Coast harbor nexus tied to inland routes and sea lanes toward [[nations-realms/moonshae-isles|Moonshae Isles]].
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Power is shared uneasily among captains, councils, and influential arcane actors.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Dockside labor, privateer culture, and faction patronage shape urban life.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Shipping, salvage, raiding economies, and contract security operations drive wealth.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Religious institutions are present but often subordinate to maritime power politics.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Naval squadrons, dock militias, and hired blades protect local interests.
 
 ## Major Settlements
-- [[settlements/index|Luskan]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Luskan]] (detail page TBD)
+- [[settlements/index|Hosttower District]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Ship captains and port syndicates
+- Arcane power circles
+- Mercenary and intelligence networks
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Competes and bargains with [[nations-realms/luruar|Luruar]] and other northern coast powers for route control.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Faction street war spilling into governance
+- Piracy blowback and retaliation
+- Foreign infiltration of port authority
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Luskan for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/luruar|Luruar (Silver Marches)]]
+- [[nations-realms/moonshae-isles|Moonshae Isles]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

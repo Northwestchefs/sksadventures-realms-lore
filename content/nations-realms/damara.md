@@ -17,51 +17,54 @@ capital: Helgabal
 Damara is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A northern kingdom oriented around recovery, border defense, and survival against hostile frontiers.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Cold uplands and valleys bordering [[nations-realms/vaasa|Vaasa]], with fortified routes and sparse settlements.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Monarchical authority is strongest where supported by loyal nobles, churches, and military commanders.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Rural resilience, knightly ideals, and frontier hardship all shape social norms.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Agriculture, mining, and overland caravan taxation sustain the realm.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Temples play major public roles in relief, legitimacy, and mobilization during crises.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Defensive armies combine noble levies, trained infantry, and monster-hunting detachments.
 
 ## Major Settlements
-- [[settlements/index|Helgabal]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Helgabal]] (detail page TBD)
+- [[settlements/index|Heliogabalus]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Royal court and loyal houses
+- Military frontier commands
+- Temple-backed civic authorities
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Maintains tense security posture toward [[nations-realms/vaasa|Vaasa]] and pragmatic ties with nearby northern realms.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Border incursions from the north
+- Noble rivalry during succession strain
+- Resource shortages after harsh seasons
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Damara for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/vaasa|Vaasa]]
+- [[nations-realms/impiltur|Impiltur]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

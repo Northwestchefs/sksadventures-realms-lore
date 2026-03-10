@@ -17,51 +17,54 @@ capital: Beluir
 Luiren is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A small but recognized southern nation with coherent institutions and strong local cultural identity.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Low-lying southern coastal lands near [[nations-realms/halruaa|Halruaa]] and [[nations-realms/samarach|Samarach]] trade corridors.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Civic governance is compact, locally accountable, and strongly community-driven.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Tight-knit communities emphasize mutual aid, craftsmanship, and practical diplomacy.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Specialized agriculture, artisanal goods, and regional trade niches sustain prosperity.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Temple life is local and communal, often focused on daily welfare and seasonal rites.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Defense is modest but disciplined, relying on local militias and alliance diplomacy.
 
 ## Major Settlements
-- [[settlements/index|Beluir]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Beluir]] (detail page TBD)
+- [[settlements/index|Chethel]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Civic councils and guild circles
+- Rural community leaders
+- Trade envoys managing external relations
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Prefers balanced diplomacy with larger neighbors including [[nations-realms/halruaa|Halruaa]] and southern coast polities.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- External economic domination
+- Environmental vulnerability in lowlands
+- Political capture by foreign interests
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Luiren for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/halruaa|Halruaa]]
+- [[nations-realms/samarach|Samarach]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

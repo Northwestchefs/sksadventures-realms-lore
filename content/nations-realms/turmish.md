@@ -17,51 +17,54 @@ capital: Alaghôn
 Turmish is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A republic-scale polity around the Vilhon Reach with strong civic institutions and commercial diplomacy.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Centered on the Vilhon coast, linked by sea routes to [[nations-realms/chondath|Chondath]], [[nations-realms/sespech|Sespech]], and [[nations-realms/chessenta|Chessenta]].
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Republican institutions and council politics shape policy, often through negotiated faction blocs.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Civic participation, guild affiliation, and urban-rural balancing define social dynamics.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Shipping, agriculture, and manufacturing support a broad tax and trade base.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Temple bodies can influence policy through civic legitimacy and public mobilization.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Maintains disciplined militias, naval patrols, and hired specialists for route protection.
 
 ## Major Settlements
-- [[settlements/index|Alaghôn]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Alaghôn]] (detail page TBD)
+- [[settlements/index|Gildenglade]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Republican councils and magistrates
+- Guild federations
+- Landholding and military interests
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Maintains active diplomacy with [[nations-realms/chondath|Chondath]], [[nations-realms/sespech|Sespech]], and [[nations-realms/chessenta|Chessenta]].
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Council deadlock during crisis
+- Trade wars escalating into armed conflict
+- Faction-backed unrest in major ports
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Turmish for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/chondath|Chondath]]
+- [[nations-realms/sespech|Sespech]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

@@ -17,51 +17,54 @@ capital: Caer Callidyrr
 Moonshae Isles is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+An island realm complex with enough cohesion to treat as a major nation-scale entry.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+An archipelago off the Sword Coast with maritime choke points and distinct local islands.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Governance varies by island but often includes a high kingship framework, local rulers, and negotiated authority.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Island identity, clan loyalties, and seafaring traditions are central social anchors.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Fishing, shipping, coastal trade, and limited island agriculture drive livelihoods.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Faith life is deeply tied to local land, sea, and sovereignty traditions.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Naval patrols, coastal forts, and island militias are critical to defense.
 
 ## Major Settlements
-- [[settlements/index|Caer Callidyrr]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Caer Callidyrr]] (detail page TBD)
+- [[settlements/index|Corwell Town]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Island rulers and clan networks
+- Seafaring captains and harbor guilds
+- Druidic and temple authorities
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Maintains active sea-lane ties with [[nations-realms/luskan|Luskan]] and mainland Sword Coast powers.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Inter-island succession disputes
+- Piracy and raider fleets
+- Storm disruption and supply shocks
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Moonshae Isles for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/luskan|Luskan]]
+- [[nations-realms/evermeet|Evermeet]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

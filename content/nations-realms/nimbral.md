@@ -17,51 +17,54 @@ capital: Nimbral (capital isle)
 Nimbral is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+An insular maritime realm known for secrecy and strategic control of sea approaches.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+An island polity in southern waters with limited ports and carefully managed external contact.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Power is centralized among elite ruling circles with strict control over external diplomacy.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Communities are inward-focused, with status tied to service, lineage, and island institutions.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Selective trade, high-value crafts, and maritime expertise sustain the realm.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Religious observance tends to be local and conservative, reinforcing social cohesion.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Defense emphasizes naval mobility, aerial or rapid patrol assets, and secrecy.
 
 ## Major Settlements
-- [[settlements/index|Nimbral]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Nimbral]] (detail page TBD)
+- [[settlements/index|Nimbral Harbor]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Island ruling elites
+- Maritime command authorities
+- Isolationists versus engagement advocates
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Keeps distance from mainland blocs while maintaining transactional ties with [[nations-realms/halruaa|Halruaa]] and southern ports.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Exposure of strategic secrets
+- Faction splits over openness
+- External infiltration of port systems
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Nimbral for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/halruaa|Halruaa]]
+- [[nations-realms/tashalar|Tashalar]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

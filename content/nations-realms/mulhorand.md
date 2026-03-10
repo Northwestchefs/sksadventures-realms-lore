@@ -17,51 +17,54 @@ capital: Skuld
 Mulhorand is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A restored imperial-scale culture-state in the east with strong religious and dynastic identity.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+A river-valley and desert-border realm interacting directly with [[nations-realms/unther|Unther]] and [[nations-realms/thay|Thay]].
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Central authority combines imperial institutions, provincial governors, and temple-backed administration.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Civic life is shaped by hierarchy, temple culture, and historical restoration narratives.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+River agriculture, monumental labor systems, and regional trade sustain state power.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Religion is state-visible and politically central, influencing law and legitimacy.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Large organized armies, chariot/cavalry traditions, and fortified river positions define strategy.
 
 ## Major Settlements
-- [[settlements/index|Skuld]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Skuld]] (detail page TBD)
+- [[settlements/index|Neldorild]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Imperial court and ministries
+- Temple hierarchies
+- Provincial military governors
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Maintains rivalry and negotiation cycles with [[nations-realms/unther|Unther]] and cautious posture toward [[nations-realms/thay|Thay]].
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Imperial overextension
+- Temple-state political conflict
+- Border wars and proxy insurgencies
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Mulhorand for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/unther|Unther]]
+- [[nations-realms/thay|Thay]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

@@ -17,51 +17,54 @@ capital: Sheirtalar
 Lapaliiya is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A southern coastal league-zone that functions as a coherent political region in trade and diplomacy.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Extends along warm southern coasts between [[nations-realms/calimshan|Calimshan]], [[nations-realms/tashalar|Tashalar]], and inland routes.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Often organized through city alliances, merchant compacts, and negotiated local sovereignties.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Port cosmopolitanism mixes with strong local city identities and mercantile patronage networks.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Spice traffic, shipping, fisheries, and caravan exchange are central to prosperity.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Religious practice is urban and plural, with temple diplomacy tied to trade stability.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Defense depends on city militias, harbor fleets, and hired marine companies.
 
 ## Major Settlements
-- [[settlements/index|Sheirtalar]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Suldolphor]] (detail page TBD)
+- [[settlements/index|Sheirtalar]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Port councils and trade houses
+- Harbor masters and naval syndicates
+- Urban temples and arbitration courts
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Maintains fluid alliances with [[nations-realms/tashalar|Tashalar]], [[nations-realms/calimshan|Calimshan]], and other Shining South polities.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- League fragmentation under economic stress
+- Piracy and blockade pressure
+- Inter-city tariff disputes turning violent
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Lapaliiya for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/tashalar|Tashalar]]
+- [[nations-realms/calimshan|Calimshan]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

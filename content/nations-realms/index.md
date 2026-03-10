@@ -8,7 +8,7 @@ tags:
 
 # Nations & Realms
 
-Starter reference hub for nation-scale political entities in the [[world/index|Forgotten Realms]], including sovereign states, confederations, leagues, and major city-state polities.
+Hub for nation-scale political entities in the [[world/index|Forgotten Realms]], including sovereign states, confederations, leagues, politically distinct regions, and major city-state polities.
 
 ## Major Nations and Realms
 
@@ -56,4 +56,5 @@ Starter reference hub for nation-scale political entities in the [[world/index|F
 - [[regions/index|Regions]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]
+- [[religions-faiths/index|Religions & Faiths]]
 - [[world/index|World Overview]]

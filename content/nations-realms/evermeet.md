@@ -17,51 +17,54 @@ capital: Leuthilspar
 Evermeet is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+An island elf realm treated as a major map-scale polity with powerful cultural and diplomatic influence.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+An insular oceanic realm west of Faerûn, defined by maritime access and controlled approaches.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Governed through established royal and noble-elven institutions with strong continuity traditions.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Society emphasizes heritage, artistry, and stewardship, with varying openness to outsiders by era.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Skilled craftsmanship, selective trade, and maritime logistics support the realm.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Religious life is tightly integrated with identity, tradition, and guardianship of sacred places.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Naval defense and elite guardians protect approaches and strategic enclaves.
 
 ## Major Settlements
-- [[settlements/index|Leuthilspar]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Leuthilspar]] (detail page TBD)
+- [[settlements/index|Shinaelestra]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Royal court circles
+- Noble houses and traditionalists
+- Maritime defense commands
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Often engages cautiously with mainland powers such as [[nations-realms/moonshae-isles|Moonshae Isles]] and [[nations-realms/cormyr|Cormyr]].
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Isolation debates and policy divides
+- Espionage targeting magical or strategic assets
+- Sea-borne threats to island routes
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Evermeet for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/moonshae-isles|Moonshae Isles]]
+- [[nations-realms/cormyr|Cormyr]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]
