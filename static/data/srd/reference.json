@@ -1,0 +1,843 @@
+{
+  "generatedAt": "2026-03-10T17:12:28.594Z",
+  "source": {
+    "name": "D&D 5e SRD API (2014)",
+    "baseUrl": "https://www.dnd5eapi.co/api/2014"
+  },
+  "collections": {
+    "ability-scores": [
+      {
+        "id": "ability-scores:cha",
+        "index": "cha",
+        "name": "CHA",
+        "endpoint": "ability-scores",
+        "apiUrl": "/api/2014/ability-scores/cha",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "ability-scores:con",
+        "index": "con",
+        "name": "CON",
+        "endpoint": "ability-scores",
+        "apiUrl": "/api/2014/ability-scores/con",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "ability-scores:dex",
+        "index": "dex",
+        "name": "DEX",
+        "endpoint": "ability-scores",
+        "apiUrl": "/api/2014/ability-scores/dex",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "ability-scores:int",
+        "index": "int",
+        "name": "INT",
+        "endpoint": "ability-scores",
+        "apiUrl": "/api/2014/ability-scores/int",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "ability-scores:str",
+        "index": "str",
+        "name": "STR",
+        "endpoint": "ability-scores",
+        "apiUrl": "/api/2014/ability-scores/str",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "ability-scores:wis",
+        "index": "wis",
+        "name": "WIS",
+        "endpoint": "ability-scores",
+        "apiUrl": "/api/2014/ability-scores/wis",
+        "source": "5e-srd-api"
+      }
+    ],
+    "skills": [
+      {
+        "id": "skills:acrobatics",
+        "index": "acrobatics",
+        "name": "Acrobatics",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/acrobatics",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:animal-handling",
+        "index": "animal-handling",
+        "name": "Animal Handling",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/animal-handling",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:arcana",
+        "index": "arcana",
+        "name": "Arcana",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/arcana",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:athletics",
+        "index": "athletics",
+        "name": "Athletics",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/athletics",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:deception",
+        "index": "deception",
+        "name": "Deception",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/deception",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:history",
+        "index": "history",
+        "name": "History",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/history",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:insight",
+        "index": "insight",
+        "name": "Insight",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/insight",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:intimidation",
+        "index": "intimidation",
+        "name": "Intimidation",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/intimidation",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:investigation",
+        "index": "investigation",
+        "name": "Investigation",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/investigation",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:medicine",
+        "index": "medicine",
+        "name": "Medicine",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/medicine",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:nature",
+        "index": "nature",
+        "name": "Nature",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/nature",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:perception",
+        "index": "perception",
+        "name": "Perception",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/perception",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:performance",
+        "index": "performance",
+        "name": "Performance",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/performance",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:persuasion",
+        "index": "persuasion",
+        "name": "Persuasion",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/persuasion",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:religion",
+        "index": "religion",
+        "name": "Religion",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/religion",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:sleight-of-hand",
+        "index": "sleight-of-hand",
+        "name": "Sleight of Hand",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/sleight-of-hand",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:stealth",
+        "index": "stealth",
+        "name": "Stealth",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/stealth",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "skills:survival",
+        "index": "survival",
+        "name": "Survival",
+        "endpoint": "skills",
+        "apiUrl": "/api/2014/skills/survival",
+        "source": "5e-srd-api"
+      }
+    ],
+    "conditions": [
+      {
+        "id": "conditions:blinded",
+        "index": "blinded",
+        "name": "Blinded",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/blinded",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:charmed",
+        "index": "charmed",
+        "name": "Charmed",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/charmed",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:deafened",
+        "index": "deafened",
+        "name": "Deafened",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/deafened",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:exhaustion",
+        "index": "exhaustion",
+        "name": "Exhaustion",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/exhaustion",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:frightened",
+        "index": "frightened",
+        "name": "Frightened",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/frightened",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:grappled",
+        "index": "grappled",
+        "name": "Grappled",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/grappled",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:incapacitated",
+        "index": "incapacitated",
+        "name": "Incapacitated",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/incapacitated",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:invisible",
+        "index": "invisible",
+        "name": "Invisible",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/invisible",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:paralyzed",
+        "index": "paralyzed",
+        "name": "Paralyzed",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/paralyzed",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:petrified",
+        "index": "petrified",
+        "name": "Petrified",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/petrified",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:poisoned",
+        "index": "poisoned",
+        "name": "Poisoned",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/poisoned",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:prone",
+        "index": "prone",
+        "name": "Prone",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/prone",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:restrained",
+        "index": "restrained",
+        "name": "Restrained",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/restrained",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:stunned",
+        "index": "stunned",
+        "name": "Stunned",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/stunned",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "conditions:unconscious",
+        "index": "unconscious",
+        "name": "Unconscious",
+        "endpoint": "conditions",
+        "apiUrl": "/api/2014/conditions/unconscious",
+        "source": "5e-srd-api"
+      }
+    ],
+    "damage-types": [
+      {
+        "id": "damage-types:acid",
+        "index": "acid",
+        "name": "Acid",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/acid",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:bludgeoning",
+        "index": "bludgeoning",
+        "name": "Bludgeoning",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/bludgeoning",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:cold",
+        "index": "cold",
+        "name": "Cold",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/cold",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:fire",
+        "index": "fire",
+        "name": "Fire",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/fire",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:force",
+        "index": "force",
+        "name": "Force",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/force",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:lightning",
+        "index": "lightning",
+        "name": "Lightning",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/lightning",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:necrotic",
+        "index": "necrotic",
+        "name": "Necrotic",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/necrotic",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:piercing",
+        "index": "piercing",
+        "name": "Piercing",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/piercing",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:poison",
+        "index": "poison",
+        "name": "Poison",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/poison",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:psychic",
+        "index": "psychic",
+        "name": "Psychic",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/psychic",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:radiant",
+        "index": "radiant",
+        "name": "Radiant",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/radiant",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:slashing",
+        "index": "slashing",
+        "name": "Slashing",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/slashing",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "damage-types:thunder",
+        "index": "thunder",
+        "name": "Thunder",
+        "endpoint": "damage-types",
+        "apiUrl": "/api/2014/damage-types/thunder",
+        "source": "5e-srd-api"
+      }
+    ],
+    "languages": [
+      {
+        "id": "languages:abyssal",
+        "index": "abyssal",
+        "name": "Abyssal",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/abyssal",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:celestial",
+        "index": "celestial",
+        "name": "Celestial",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/celestial",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:common",
+        "index": "common",
+        "name": "Common",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/common",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:deep-speech",
+        "index": "deep-speech",
+        "name": "Deep Speech",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/deep-speech",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:draconic",
+        "index": "draconic",
+        "name": "Draconic",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/draconic",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:druidic",
+        "index": "druidic",
+        "name": "Druidic",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/druidic",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:dwarvish",
+        "index": "dwarvish",
+        "name": "Dwarvish",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/dwarvish",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:elvish",
+        "index": "elvish",
+        "name": "Elvish",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/elvish",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:giant",
+        "index": "giant",
+        "name": "Giant",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/giant",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:gnomish",
+        "index": "gnomish",
+        "name": "Gnomish",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/gnomish",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:goblin",
+        "index": "goblin",
+        "name": "Goblin",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/goblin",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:halfling",
+        "index": "halfling",
+        "name": "Halfling",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/halfling",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:infernal",
+        "index": "infernal",
+        "name": "Infernal",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/infernal",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:orc",
+        "index": "orc",
+        "name": "Orc",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/orc",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:primordial",
+        "index": "primordial",
+        "name": "Primordial",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/primordial",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:sylvan",
+        "index": "sylvan",
+        "name": "Sylvan",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/sylvan",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:thieves-cant",
+        "index": "thieves-cant",
+        "name": "Thieves' Cant",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/thieves-cant",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "languages:undercommon",
+        "index": "undercommon",
+        "name": "Undercommon",
+        "endpoint": "languages",
+        "apiUrl": "/api/2014/languages/undercommon",
+        "source": "5e-srd-api"
+      }
+    ],
+    "equipment-categories": [
+      {
+        "id": "equipment-categories:adventuring-gear",
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear",
+        "endpoint": "equipment-categories",
+        "apiUrl": "/api/2014/equipment-categories/adventuring-gear",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment-categories:armor",
+        "index": "armor",
+        "name": "Armor",
+        "endpoint": "equipment-categories",
+        "apiUrl": "/api/2014/equipment-categories/armor",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment-categories:artisan-tools",
+        "index": "artisan-tools",
+        "name": "Artisan's Tools",
+        "endpoint": "equipment-categories",
+        "apiUrl": "/api/2014/equipment-categories/artisan-tools",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment-categories:gaming-sets",
+        "index": "gaming-sets",
+        "name": "Gaming Sets",
+        "endpoint": "equipment-categories",
+        "apiUrl": "/api/2014/equipment-categories/gaming-sets",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment-categories:melee-weapons",
+        "index": "melee-weapons",
+        "name": "Melee Weapons",
+        "endpoint": "equipment-categories",
+        "apiUrl": "/api/2014/equipment-categories/melee-weapons",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment-categories:mounts-and-vehicles",
+        "index": "mounts-and-vehicles",
+        "name": "Mounts and Vehicles",
+        "endpoint": "equipment-categories",
+        "apiUrl": "/api/2014/equipment-categories/mounts-and-vehicles",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment-categories:musical-instruments",
+        "index": "musical-instruments",
+        "name": "Musical Instruments",
+        "endpoint": "equipment-categories",
+        "apiUrl": "/api/2014/equipment-categories/musical-instruments",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment-categories:other-tools",
+        "index": "other-tools",
+        "name": "Other Tools",
+        "endpoint": "equipment-categories",
+        "apiUrl": "/api/2014/equipment-categories/other-tools",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment-categories:ranged-weapons",
+        "index": "ranged-weapons",
+        "name": "Ranged Weapons",
+        "endpoint": "equipment-categories",
+        "apiUrl": "/api/2014/equipment-categories/ranged-weapons",
+        "source": "5e-srd-api"
+      }
+    ],
+    "equipment": [
+      {
+        "id": "equipment:chain-mail",
+        "index": "chain-mail",
+        "name": "Chain Mail",
+        "endpoint": "equipment",
+        "apiUrl": "/api/2014/equipment/chain-mail",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment:club",
+        "index": "club",
+        "name": "Club",
+        "endpoint": "equipment",
+        "apiUrl": "/api/2014/equipment/club",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment:crossbow-light",
+        "index": "crossbow-light",
+        "name": "Crossbow, light",
+        "endpoint": "equipment",
+        "apiUrl": "/api/2014/equipment/crossbow-light",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment:dagger",
+        "index": "dagger",
+        "name": "Dagger",
+        "endpoint": "equipment",
+        "apiUrl": "/api/2014/equipment/dagger",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment:explorers-pack",
+        "index": "explorers-pack",
+        "name": "Explorer's Pack",
+        "endpoint": "equipment",
+        "apiUrl": "/api/2014/equipment/explorers-pack",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment:leather-armor",
+        "index": "leather-armor",
+        "name": "Leather Armor",
+        "endpoint": "equipment",
+        "apiUrl": "/api/2014/equipment/leather-armor",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment:longsword",
+        "index": "longsword",
+        "name": "Longsword",
+        "endpoint": "equipment",
+        "apiUrl": "/api/2014/equipment/longsword",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment:shield",
+        "index": "shield",
+        "name": "Shield",
+        "endpoint": "equipment",
+        "apiUrl": "/api/2014/equipment/shield",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment:shortbow",
+        "index": "shortbow",
+        "name": "Shortbow",
+        "endpoint": "equipment",
+        "apiUrl": "/api/2014/equipment/shortbow",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "equipment:thieves-tools",
+        "index": "thieves-tools",
+        "name": "Thieves' Tools",
+        "endpoint": "equipment",
+        "apiUrl": "/api/2014/equipment/thieves-tools",
+        "source": "5e-srd-api"
+      }
+    ],
+    "monsters": [
+      {
+        "id": "monsters:goblin",
+        "index": "goblin",
+        "name": "Goblin",
+        "endpoint": "monsters",
+        "apiUrl": "/api/2014/monsters/goblin",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "monsters:orc",
+        "index": "orc",
+        "name": "Orc",
+        "endpoint": "monsters",
+        "apiUrl": "/api/2014/monsters/orc",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "monsters:skeleton",
+        "index": "skeleton",
+        "name": "Skeleton",
+        "endpoint": "monsters",
+        "apiUrl": "/api/2014/monsters/skeleton",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "monsters:wolf",
+        "index": "wolf",
+        "name": "Wolf",
+        "endpoint": "monsters",
+        "apiUrl": "/api/2014/monsters/wolf",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "monsters:young-red-dragon",
+        "index": "young-red-dragon",
+        "name": "Young Red Dragon",
+        "endpoint": "monsters",
+        "apiUrl": "/api/2014/monsters/young-red-dragon",
+        "source": "5e-srd-api"
+      }
+    ],
+    "spells": [
+      {
+        "id": "spells:bless",
+        "index": "bless",
+        "name": "Bless",
+        "endpoint": "spells",
+        "apiUrl": "/api/2014/spells/bless",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "spells:cure-wounds",
+        "index": "cure-wounds",
+        "name": "Cure Wounds",
+        "endpoint": "spells",
+        "apiUrl": "/api/2014/spells/cure-wounds",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "spells:detect-magic",
+        "index": "detect-magic",
+        "name": "Detect Magic",
+        "endpoint": "spells",
+        "apiUrl": "/api/2014/spells/detect-magic",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "spells:fireball",
+        "index": "fireball",
+        "name": "Fireball",
+        "endpoint": "spells",
+        "apiUrl": "/api/2014/spells/fireball",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "spells:guidance",
+        "index": "guidance",
+        "name": "Guidance",
+        "endpoint": "spells",
+        "apiUrl": "/api/2014/spells/guidance",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "spells:mage-armor",
+        "index": "mage-armor",
+        "name": "Mage Armor",
+        "endpoint": "spells",
+        "apiUrl": "/api/2014/spells/mage-armor",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "spells:magic-missile",
+        "index": "magic-missile",
+        "name": "Magic Missile",
+        "endpoint": "spells",
+        "apiUrl": "/api/2014/spells/magic-missile",
+        "source": "5e-srd-api"
+      },
+      {
+        "id": "spells:shield",
+        "index": "shield",
+        "name": "Shield",
+        "endpoint": "spells",
+        "apiUrl": "/api/2014/spells/shield",
+        "source": "5e-srd-api"
+      }
+    ]
+  }
+}
