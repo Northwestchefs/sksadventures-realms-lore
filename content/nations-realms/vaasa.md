@@ -17,51 +17,54 @@ capital: Palischuk (common administrative hub)
 Vaasa is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A harsh northern frontier realm whose political identity is built around survival and militarized control.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Cold badlands and steppe corridors north of [[nations-realms/damara|Damara]], with dangerous wilderness approaches.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Rule tends toward militarized lordship and frontier administration with uneven central reach.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Settler enclaves, fort communities, and hard frontier hierarchies shape life.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Mining, caravan tolls, and extraction economies dominate where security permits.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Faith institutions often double as aid, law, and morale infrastructure in isolated settlements.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Heavy frontier garrisons and mobile patrols focus on monsters, raiders, and border threats.
 
 ## Major Settlements
-- [[settlements/index|Palischuk]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Palischuk]] (detail page TBD)
+- [[settlements/index|Telos City]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Frontier lords and garrison commands
+- Extraction guild interests
+- Mercenary companies and caravan protectors
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Exists in constant strategic tension with [[nations-realms/damara|Damara]] and eastern frontier actors.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Wilderness incursions overwhelming settlements
+- Strongman coups in isolated districts
+- Supply-line failure in severe winters
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Vaasa for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/damara|Damara]]
+- [[nations-realms/narfell|Narfell]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

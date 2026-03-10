@@ -17,51 +17,54 @@ capital: Telflamm
 Thesk is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A trade-facing eastern realm where caravan economics and frontier diplomacy are central state concerns.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Stretches along overland and coastal routes between eastern frontiers and Inner Sea markets.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Governance blends merchant influence with regional administrators and local strongholds.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Caravan towns, mixed migrant communities, and pragmatic civic culture define daily life.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Long-distance caravan trade, warehousing, and escort services dominate the economy.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Temples provide social services for mobile populations and mediate commercial disputes.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Route security forces and contracted guards are vital alongside local militias.
 
 ## Major Settlements
-- [[settlements/index|Telflamm]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Telflamm]] (detail page TBD)
+- [[settlements/index|Phsant]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Caravan consortiums
+- Port and customs authorities
+- Security captains and local governors
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Balances ties with [[nations-realms/impiltur|Impiltur]], [[nations-realms/rashemen|Rashemen]], and eastland frontier regions.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Route monopolies and corruption
+- Smuggling and protection-racket violence
+- External pressure from expansionist neighbors
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Thesk for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/impiltur|Impiltur]]
+- [[nations-realms/rashemen|Rashemen]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

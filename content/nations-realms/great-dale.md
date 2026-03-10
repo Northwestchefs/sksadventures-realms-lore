@@ -17,51 +17,54 @@ capital: Yeshelmaar (regional center)
 Great Dale is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A broad interior region with enough shared political character to run as a realm-scale entry.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Wooded and river-cut lands in the east, adjacent to [[nations-realms/thesk|Thesk]], [[nations-realms/narfell|Narfell]], and [[nations-realms/thay|Thay]] influence zones.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Authority is often regional and customary rather than tightly centralized, with strong local leadership traditions.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Communities emphasize local autonomy, frontier cooperation, and practical spirituality.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Forestry, river traffic, and subsistence agriculture dominate economic life.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Faith practice is community-focused, with druidic and temple traditions shaping local law and custom.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Defense relies on local militias, scouts, and terrain knowledge rather than large standing armies.
 
 ## Major Settlements
-- [[settlements/index|Yeshelmaar]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Uluvin]] (detail page TBD)
+- [[settlements/index|Dun-Tharos]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Local elder councils
+- Ranger and druid circles
+- External traders and agents
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Navigates pressure from [[nations-realms/thay|Thay]] while trading with [[nations-realms/thesk|Thesk]] and neighboring frontier lands.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Cross-border predation
+- Fragmented command during major crises
+- Resource disputes between communities
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Great Dale for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/thesk|Thesk]]
+- [[nations-realms/narfell|Narfell]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

@@ -17,51 +17,54 @@ capital: Arrabar
 Chondath is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A river-and-coast mercantile realm whose influence depends on trade corridors more than territorial depth.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Covers key approaches to the [[sea-of-fallen-stars|Sea of Fallen Stars]] and inland routes near [[nations-realms/sespech|Sespech]] and [[nations-realms/turmish|Turmish]].
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Governance blends civic institutions with merchant influence and regional officeholders.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Port urbanites, river traders, and inland farming communities create a mixed social profile.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Shipping, warehousing, and caravan exchange are central economic pillars.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Temples often function as community stabilizers and arbiters in commercial disputes.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Defense prioritizes river patrols, city garrisons, and route security detachments.
 
 ## Major Settlements
-- [[settlements/index|Arrabar]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Arrabar]] (detail page TBD)
+- [[settlements/index|Hlondeth]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Port merchant councils
+- River transport consortiums
+- Provincial administrators and militias
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Maintains competitive trade diplomacy with [[nations-realms/sespech|Sespech]], [[nations-realms/turmish|Turmish]], and [[nations-realms/aglarond|Aglarond]].
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Trade chokepoint disruption
+- Urban political deadlock
+- Foreign economic coercion
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Chondath for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/sespech|Sespech]]
+- [[nations-realms/turmish|Turmish]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

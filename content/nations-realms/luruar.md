@@ -17,51 +17,54 @@ capital: Silverymoon (customary seat)
 Luruar (Silver Marches) is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A named confederation in the North, with shared defense institutions among member cities and realms.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Covers mountain, forest, and river corridors of the North around [[settlements/index|Silverymoon]].
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Confederal governance relies on treaties, councils, and member commitments rather than direct unitary rule.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Regional identities remain strong, but cooperative security culture binds member polities.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Mining, crafts, caravan protection, and inter-city trade fuel collective strength.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Faith institutions often cooperate across member lands on defense and public welfare.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Joint operations, mutual aid clauses, and coordinated patrols define military structure.
 
 ## Major Settlements
-- [[settlements/index|Silverymoon]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Silverymoon]] (detail page TBD)
+- [[settlements/index|Sundabar]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Confederation council blocs
+- Member-city political interests
+- Frontier defenders and ranger networks
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Coordinates with neighbors such as [[nations-realms/luskan|Luskan]] and [[nations-realms/moonshae-isles|Moonshae Isles]] through trade and security diplomacy.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Member defection or treaty fatigue
+- Asymmetric threats on long borders
+- Competing strategic priorities among allies
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Luruar (Silver Marches) for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/luskan|Luskan]]
+- [[nations-realms/moonshae-isles|Moonshae Isles]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

@@ -17,51 +17,54 @@ capital: Cimbar (often treated as primary seat)
 Chessenta is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A martial city-state region that functions as a realm-scale political arena despite recurring internal fragmentation.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Fringes the [[sea-of-fallen-stars|Sea of Fallen Stars]] southeast basin, with fertile lowlands and strategic coastal cities.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Power alternates between dominant city leadership, military strongmen, and negotiated coalitions.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Civic pride is local-first, and personal reputation in war and politics carries major weight.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Grain, coastal trade, and military service markets drive urban prosperity.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Public cult practice can be highly civic, with temples tied to city identity and legitimacy.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Heavy reliance on disciplined city forces, veteran officers, and contracted specialists.
 
 ## Major Settlements
-- [[settlements/index|Cimbar]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Cimbar]] (detail page TBD)
+- [[settlements/index|Luthcheq]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Competing city councils
+- General-led power blocs
+- Merchant leagues financing campaigns
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Balances rivalry with [[nations-realms/unther|Unther]] and trade links with [[nations-realms/turmish|Turmish]] and other Inner Sea powers.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Inter-city wars and failed unification efforts
+- Coup cycles led by military factions
+- External manipulation by stronger neighbors
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Chessenta for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/unther|Unther]]
+- [[nations-realms/turmish|Turmish]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

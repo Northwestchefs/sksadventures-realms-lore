@@ -17,51 +17,54 @@ capital: Tashluta
 Tashalar is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A south-coast trade polity with city-driven power and strong maritime orientation.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Controls tropical coastal corridors connected to [[nations-realms/lapaliiya|Lapaliiya]] and wider Shining South routes.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Political authority is exercised through urban elites, merchant councils, and port officials.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Urban mercantile culture dominates, but inland communities retain distinct local practices.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Spice trade, shipping, warehousing, and shipbuilding are key economic engines.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Religious life is plural and often entwined with guild patronage and civic ritual.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Naval defense, harbor guards, and hired marines protect trade arteries.
 
 ## Major Settlements
-- [[settlements/index|Tashluta]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Tashluta]] (detail page TBD)
+- [[settlements/index|Suldolphor]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Port merchant syndicates
+- Harbor military offices
+- Temple-guild patronage blocs
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Maintains competitive cooperation with [[nations-realms/lapaliiya|Lapaliiya]] and transactional ties with [[nations-realms/calimshan|Calimshan]].
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Piracy and blockade pressure
+- Merchant faction violence
+- Supply shocks from climate or conflict
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Tashalar for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/lapaliiya|Lapaliiya]]
+- [[nations-realms/calimshan|Calimshan]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

@@ -17,51 +17,54 @@ capital: Varies by claimant
 Narfell is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A frontier successor region with distinct identity and recurring strategic significance in the east.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Cold plains and rough uplands north of the Inner Sea sphere, near [[nations-realms/vaasa|Vaasa]] and [[nations-realms/great-dale|Great Dale]].
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Usually fragmented among warbands, local rulers, and temporary confederations.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Clan memory, martial reputation, and survival ethics guide social structure.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Pastoralism, hunting, caravan interception, and frontier trade coexist unevenly.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Religious life can be volatile, mixing local traditions with imported cult influences.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Fast-moving warbands and hardened frontier fighters are common military forms.
 
 ## Major Settlements
-- [[settlements/index|Varies by claimant]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Dun-Tharos]] (detail page TBD)
+- [[settlements/index|Narfell March Camps]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Clan chiefs and war leaders
+- Occult or cultic circles
+- Mercenary bands serving foreign patrons
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Operates as both threat and buffer for [[nations-realms/great-dale|Great Dale]], [[nations-realms/vaasa|Vaasa]], and eastern trade states.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Warlord unification under expansionist agendas
+- Cult resurgence and demon-bound pacts
+- Humanitarian collapse after harsh winters
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Narfell for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/great-dale|Great Dale]]
+- [[nations-realms/vaasa|Vaasa]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

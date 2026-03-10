@@ -17,51 +17,54 @@ capital: Calimport
 Calimshan is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+An old imperial power on the southern Sword Coast known for urban wealth and entrenched elite politics.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Anchors major ports on warm southern coasts with trade links to [[nations-realms/tethyr|Tethyr]], [[nations-realms/lapaliiya|Lapaliiya]], and beyond.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+State authority is exercised through entrenched ruling circles, provincial administration, and powerful commercial houses.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Urban class divides, old family influence, and cosmopolitan port culture all shape daily life.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Maritime trade, craft industries, finance, and plantation or estate output sustain influence.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Temple institutions are politically connected in major cities and can legitimize or resist elite agendas.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Maintains professional garrisons, naval assets, and contracted auxiliaries for trade protection.
 
 ## Major Settlements
-- [[settlements/index|Calimport]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Calimport]] (detail page TBD)
+- [[settlements/index|Memnon]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Old noble-financier dynasties
+- Port authorities and merchant syndicates
+- Court bureaucrats and military commanders
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Competes and negotiates with [[nations-realms/tethyr|Tethyr]] and southern trade partners while projecting influence along coast routes.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Elite infighting that stalls governance
+- Piracy and private warfare on sea lanes
+- Insurgency in provinces resentful of metropolitan rule
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Calimshan for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/tethyr|Tethyr]]
+- [[nations-realms/lapaliiya|Lapaliiya]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

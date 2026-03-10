@@ -17,51 +17,54 @@ capital: Velprintalar
 Aglarond is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A coastal forest realm on the eastern Sea of Fallen Stars that balances local autonomy with defense-minded statecraft.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Sits between [[nations-realms/thay|Thay]] and the [[sea-of-fallen-stars|Sea of Fallen Stars]], with mixed woodland interiors and vulnerable coasts.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+A crown framework works through local lords and city authorities, with security policy shaped by pressure from [[nations-realms/thay|Thay]].
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Village traditions, coastal trade communities, and frontier patrol culture all coexist with strong regional identities.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Timber, fishing, coastal commerce, and controlled overland routes support the realm.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Local temple life tends toward pragmatic, protective faith practice in communities near contested borders.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Border watchers, naval patrols, and local militias focus on deterrence and rapid response.
 
 ## Major Settlements
-- [[settlements/index|Velprintalar]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Velprintalar]] (detail page TBD)
+- [[settlements/index|Glarondar]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Border commanders and local lords
+- Merchant captains and harbor interests
+- Temple networks funding relief and defense
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Maintains guarded relations with [[nations-realms/thay|Thay]] while seeking trade stability with [[nations-realms/chondath|Chondath]] and other coast states.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Cross-border espionage and magical sabotage
+- Coastal raiding and privateer disruption
+- Internal disagreement over foreign policy
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Aglarond for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/thay|Thay]]
+- [[nations-realms/chondath|Chondath]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]

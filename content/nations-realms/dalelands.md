@@ -17,51 +17,54 @@ capital: Dagger Falls (common moot site)
 Dalelands is treated here as a nation-scale realm entry for campaign planning, diplomacy, and map-level play.
 
 ## Identity
-Use this section to frame how locals and neighbors describe the realm's character, strengths, and tensions.
+A confederated culture-region of allied dales treated here as a nation-scale political grouping for campaign use.
 
 ## Geography
-Outline borders, terrain, travel routes, and nearby powers that matter to regional adventures.
+Forested valleys and farming dales east of [[nations-realms/cormyr|Cormyr]] and west of [[nations-realms/vaasa|Vaasa]] routes.
 
 ## Government
-Summarize who makes decisions, how authority is enforced, and where succession or legitimacy can be contested.
+Each dale keeps local governance while councils and pacts coordinate shared defense and diplomacy.
 
 ## Society
-Note major cultures, class dynamics, and community fault lines that can generate adventure pressure.
+Community autonomy, local custom, and practical mutual aid define most dale life.
 
 ## Economy
-Identify trade goods, strategic routes, and leverage points that drive alliances and conflicts.
+Agriculture, timber, and caravan services tie the dales to larger markets.
 
 ## Religion
-List influential temples, local faith customs, and any religious disputes relevant to your era.
+Shrines and small temples are deeply local, with faith networks supporting inter-dale solidarity.
 
 ## Military
-Describe standing forces, militias, hired companies, and defensive doctrines in broad campaign terms.
+Militias and ranger-style defenders mobilize quickly under alliance terms when needed.
 
 ## Major Settlements
-- [[settlements/index|Dagger Falls]] (capital or leading seat; detail page TBD)
-- Additional cities, forts, ports, and frontier hubs (TBD)
+- [[settlements/index|Shadowdale]] (detail page TBD)
+- [[settlements/index|Mistledale]] (detail page TBD)
 
 ## Factions and Power Blocs
-- Governing elites and regional officeholders
-- Mercantile, noble, or arcane power networks
-- Religious, military, or dissident blocs
+- Dale councils and reeves
+- Freehold alliances and militias
+- External agents seeking influence over councils
 
 ## Relations
-Map ties with neighboring realms, including alliances of convenience, trade dependence, and enduring rivalries.
+Balances independence against pressure from [[nations-realms/sembia|Sembia]], [[nations-realms/cormyr|Cormyr]], and other larger states.
 
 ## Threats
-Highlight internal fragmentation, external pressure, and cross-border instability that can anchor campaigns.
+- Alliance breakdown between dales
+- Encroachment by external powers
+- Monster or raider pressure on frontier routes
 
 ## Adventure Use
-Best used for diplomatic missions, border disputes, faction intrigue, and realm-scale travel arcs.
+Use Dalelands for border diplomacy, faction bargaining, travel logistics, and region-level crisis arcs.
 
 ## Hooks
-- A border incident threatens to collapse a fragile regional accord.
-- A faction seeks neutral agents to secure leverage before a public council.
-- A missing envoy could trigger sanctions, raids, or open war if not found quickly.
+- A disputed treaty clause pulls the party into negotiations between local power blocs and foreign envoys.
+- A key route node goes silent, and multiple factions race to control what happened there.
+- A local authority hires neutral troubleshooters before a political summit turns violent.
 
 ## See Also
 - [[nations-realms/index|Nations & Realms]]
-- [[regions/index|Regions]]
+- [[nations-realms/sembia|Sembia]]
+- [[nations-realms/cormyr|Cormyr]]
 - [[settlements/index|Settlements]]
 - [[factions/index|Factions]]
