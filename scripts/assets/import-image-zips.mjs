@@ -13,6 +13,7 @@ const parseArgs = () => {
   const argv = process.argv.slice(2)
   let target = "misc"
   let relativePath = ""
+  let preserveZipFolder = true
 
   for (let i = 0; i < argv.length; i++) {
     const arg = argv[i]
@@ -24,6 +25,11 @@ const parseArgs = () => {
 
     if (arg.startsWith("--target=")) {
       target = arg.slice("--target=".length)
+      continue
+    }
+
+    if (arg === "--flat-direct") {
+      preserveZipFolder = false
       continue
     }
 
@@ -53,7 +59,7 @@ const parseArgs = () => {
     }
   }
 
-  return { target, relativePath: normalizedPath }
+  return { target, relativePath: normalizedPath, preserveZipFolder }
 }
 
 const runUnzipList = (zipPath) =>
@@ -155,12 +161,9 @@ const validateZipContents = (entries, zipName, options) => {
       )
     }
 
-    const destination = path.join(
-      outputBaseDir,
-      options.target,
-      options.relativePath,
-      slugFromZipName(zipName),
-    )
+    const destination = options.preserveZipFolder
+      ? path.join(outputBaseDir, options.target, options.relativePath, slugFromZipName(zipName))
+      : path.join(outputBaseDir, options.target, options.relativePath)
     return { mode: "flat", destination }
   }
 
