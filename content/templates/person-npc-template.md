@@ -3,6 +3,10 @@ title: Person NPC Template
 tags:
   - template
   - npc
+image_primary:
+image_token:
+image_gallery: []
+image_index:
 ---
 
 # {{Person Name}}
@@ -17,6 +21,32 @@ One short paragraph (2-4 lines) on who this person is and why they matter in pla
 - **Primary Allegiance:**
 - **Secondary Ties:**
 - **Base of Operations:**
+
+## Appearance
+
+- Table-facing identifiers, style, silhouette.
+- What people notice first.
+
+## Image
+
+> Set frontmatter fields: `image_primary`, `image_token`, `image_gallery`, `image_index`.
+
+### Primary
+
+![[{{image_primary}}|320]]
+
+### Token (Optional)
+
+![[{{image_token}}|160]]
+
+### Gallery (Optional)
+
+- ![[assets/images/npcs/{{person-slug}}/{{person-slug}}-fullbody-v1.webp|260]]
+- ![[assets/images/npcs/{{person-slug}}/{{person-slug}}-scene-v1.webp|260]]
+
+### Metadata Reference
+
+- [[{{image_index}}|Image Index]]
 
 ## Import Statblock
 
@@ -73,8 +103,8 @@ Use the exact field order above for every NPC page. Keep this section plain-text
 
 ## Description
 
-- Appearance, style, and table-facing identifiers.
-- What people notice first.
+- Personality, voice, and table-ready behavior cues.
+- Public mannerisms and social leverage.
 
 ## History / Background
 
@@ -100,4 +130,5 @@ Use the exact field order above for every NPC page. Keep this section plain-text
 ## Related Links
 
 - [[people/index|People]]
+- [[reference/image-asset-system|Image Asset System]]
 - Add the most relevant nation, region, settlement, faction, faith, landmark, and person links.

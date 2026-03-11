@@ -30,6 +30,7 @@ Public figures, rulers, and influential operators likely to matter in play.
 - [[people/yelena-embervein|Yelena Embervein]]
 - [[people/krenlin-auvryndar|Krenlin Auvryndar]]
 - [[people/neth-varr|Neth Varr]]
+- [[people/raelin-silverleaf|Raelin Silverleaf]] *(image system example)*
 
 ## Faction Quick Browse
 
@@ -64,13 +65,16 @@ Public figures, rulers, and influential operators likely to matter in play.
 - Keep this section order on each NPC page:
   1. Overview
   2. Role / Allegiance
-  3. Import Statblock
-  4. Description
-  5. History / Background
-  6. Relationships
-  7. Plot Hooks
-  8. Related Links
+  3. Appearance
+  4. Image
+  5. Import Statblock
+  6. Description
+  7. History / Background
+  8. Relationships
+  9. Plot Hooks
+  10. Related Links
 - Follow [[reference/npc-import-standard|NPC Import Statblock Standard]] for exact formatting and field order.
+- Follow [[reference/image-asset-system|Image Asset System]] for image paths, naming, and metadata fields.
 - Use [[reference/npc-srd-workflow|NPC SRD Reference Workflow]] for local SRD-backed mechanics terminology.
 - Run `npm run npc:check-statblocks` when updating NPC mechanics to keep terms aligned to the local SRD cache.
 - Keep the **Import Statblock** plain-text only, in a fenced `text` block, with no lore mixed into mechanics.

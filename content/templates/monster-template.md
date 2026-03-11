@@ -3,12 +3,37 @@ title: Monster Template
 tags:
   - template
   - monster
+image_primary:
+image_token:
+image_gallery: []
+image_index:
 ---
 
 # {{Monster Name}}
 
 ## Overview
 One short paragraph on where this creature appears and what makes it immediately useful in play.
+
+## Image
+
+> Set frontmatter fields: `image_primary`, `image_token`, `image_gallery`, `image_index`.
+
+### Primary Reference
+
+![[{{image_primary}}|360]]
+
+### Token (Optional)
+
+![[{{image_token}}|160]]
+
+### Alternate Forms / Variants
+
+- ![[assets/images/monsters/{{monster-slug}}/{{monster-slug}}-alpha-reference.webp|260]]
+- ![[assets/images/monsters/{{monster-slug}}/{{monster-slug}}-frostbitten-variant-reference.webp|260]]
+
+### Metadata Reference
+
+- [[{{image_index}}|Image Index]]
 
 ## Encounter Role
 - **Role:** Brute / Skirmisher / Ranged Threat / Spellcaster / Elite / Leader / Predator / Nuisance.
@@ -64,5 +89,6 @@ Keep this section plain-text and parser-friendly. Keep lore out of the Import St
 
 ## Related Links
 - [[monsters/index|Monsters]]
+- [[reference/image-asset-system|Image Asset System]]
 - [[landmarks/undermountain|Undermountain]]
 - Add links to relevant [[regions/index|Regions]], [[settlements/index|Settlements]], [[factions/index|Factions]], [[faiths/index|Faiths]], and related creatures.

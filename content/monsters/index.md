@@ -42,6 +42,7 @@ This batch focuses on a coherent [[landmarks/undermountain|Undermountain]] ecosy
 - [[monsters/runebound-minotaur|Runebound Minotaur]]
 - [[monsters/chainpit-overseer|Chainpit Overseer]]
 - [[monsters/vaultscale-tyrant|Vaultscale Tyrant]]
+- [[monsters/winter-wolf|Winter Wolf]] *(image system example)*
 
 ### Nuisance and Hazard Layer
 - [[monsters/deep-lamprey-swarm|Deep Lamprey Swarm]]
@@ -52,14 +53,16 @@ This batch focuses on a coherent [[landmarks/undermountain|Undermountain]] ecosy
 - Build all new monster entries from [[templates/monster-template|Monster Template]].
 - Keep this section order on each monster page:
   1. Overview
-  2. Encounter Role
-  3. Table Use
-  4. Import Statblock
-  5. Related Links
+  2. Image
+  3. Encounter Role
+  4. Table Use
+  5. Import Statblock
+  6. Related Links
 - Keep the **Import Statblock** plain text in a fenced `text` block.
 - Keep lore outside mechanics sections.
 - Use local SRD naming from `static/data/srd/reference.json` for skills, damage types, conditions, and languages.
 - Reuse recognizable 5e mechanical phrasing for parser-friendly importer workflows.
+- Follow [[reference/image-asset-system|Image Asset System]] for role-based image naming and variant handling.
 
 ## Related
 - [[landmarks/index|Landmarks]]
