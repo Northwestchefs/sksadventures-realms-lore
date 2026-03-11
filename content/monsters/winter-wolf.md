@@ -1,15 +1,19 @@
 ---
 title: Winter Wolf
+image: assets/images/monsters/winter-wolf/winter-wolf-reference.svg
+imageRole: reference
+tokenImage: assets/images/monsters/winter-wolf/winter-wolf-token.svg
+alternateImages:
+  - assets/images/monsters/winter-wolf/winter-wolf-alpha-reference.svg
+  - assets/images/monsters/winter-wolf/winter-wolf-frostbitten-variant-reference.svg
+assetFolder: assets/images/monsters/winter-wolf/
+creatureType: beast
 tags:
   - monster
   - beast
   - winter
-image_primary: assets/images/monsters/winter-wolf/winter-wolf-reference.svg
-image_token: assets/images/monsters/winter-wolf/winter-wolf-token.svg
-image_gallery:
-  - assets/images/monsters/winter-wolf/winter-wolf-alpha-reference.svg
-  - assets/images/monsters/winter-wolf/winter-wolf-frostbitten-variant-reference.svg
-image_index: assets/images/monsters/winter-wolf/index.md
+region: sword-coast
+status: active
 monster_slug: winter-wolf
 monster_variants:
   - winter-wolf-alpha
@@ -33,7 +37,8 @@ A cold-adapted pack hunter used for tundra patrol encounters, cursed forest hunt
 - ![[assets/images/monsters/winter-wolf/winter-wolf-alpha-reference.svg|260]]
 - ![[assets/images/monsters/winter-wolf/winter-wolf-frostbitten-variant-reference.svg|260]]
 
-### Metadata
+### Asset Folder / Metadata
+- `assets/images/monsters/winter-wolf/`
 - [[assets/images/monsters/winter-wolf/index|Winter Wolf Image Index]]
 
 ## Encounter Role

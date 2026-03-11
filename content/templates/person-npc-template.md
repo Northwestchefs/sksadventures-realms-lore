@@ -1,12 +1,16 @@
 ---
 title: Person NPC Template
+image:
+imageRole: portrait
+tokenImage:
+alternateImages: []
+assetFolder:
 tags:
   - template
   - npc
-image_primary:
-image_token:
-image_gallery: []
-image_index:
+faction:
+region:
+status: active
 ---
 
 # {{Person Name}}
@@ -29,24 +33,25 @@ One short paragraph (2-4 lines) on who this person is and why they matter in pla
 
 ## Image
 
-> Set frontmatter fields: `image_primary`, `image_token`, `image_gallery`, `image_index`.
+> Canonical image fields for NPC pages: `image`, `imageRole`, `tokenImage`, `alternateImages`, `assetFolder`.
 
-### Primary
+### Primary Portrait / Reference
 
-![[{{image_primary}}|320]]
+![[{{image}}|320]]
 
 ### Token (Optional)
 
-![[{{image_token}}|160]]
+![[{{tokenImage}}|160]]
 
-### Gallery (Optional)
+### Alternate References (Optional)
 
-- ![[assets/images/npcs/{{person-slug}}/{{person-slug}}-fullbody-v1.webp|260]]
-- ![[assets/images/npcs/{{person-slug}}/{{person-slug}}-scene-v1.webp|260]]
+- ![[assets/images/npcs/{{person-slug}}/{{person-slug}}-fullbody-v1.svg|260]]
+- ![[assets/images/npcs/{{person-slug}}/{{person-slug}}-scene-v1.svg|260]]
 
-### Metadata Reference
+### Asset Folder / Metadata
 
-- [[{{image_index}}|Image Index]]
+- `{{assetFolder}}`
+- [[{{assetFolder}}index|Image Index]]
 
 ## Import Statblock
 

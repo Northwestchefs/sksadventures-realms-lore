@@ -74,7 +74,7 @@ SORT creatureType ASC, file.name ASC
    - `tags: [monster, <creatureType>, ...]`
    - `region:` / `faction:` if relevant
    - `status: active` (or draft/retired)
-4. Add `image_primary` and `image_index` to the monster note.
+4. Add canonical fields to the monster note: `image`, `tokenImage`, `alternateImages`, `assetFolder`, and `creatureType`.
 5. Add one manual card here for plugin-free browsing.
 
 ## Related

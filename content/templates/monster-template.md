@@ -1,12 +1,16 @@
 ---
 title: Monster Template
+image:
+imageRole: reference
+tokenImage:
+alternateImages: []
+assetFolder:
+creatureType:
 tags:
   - template
   - monster
-image_primary:
-image_token:
-image_gallery: []
-image_index:
+region:
+status: active
 ---
 
 # {{Monster Name}}
@@ -16,24 +20,25 @@ One short paragraph on where this creature appears and what makes it immediately
 
 ## Image
 
-> Set frontmatter fields: `image_primary`, `image_token`, `image_gallery`, `image_index`.
+> Canonical image fields for monster pages: `image`, `imageRole`, `tokenImage`, `alternateImages`, `assetFolder`.
 
 ### Primary Reference
 
-![[{{image_primary}}|360]]
+![[{{image}}|360]]
 
 ### Token (Optional)
 
-![[{{image_token}}|160]]
+![[{{tokenImage}}|160]]
 
 ### Alternate Forms / Variants
 
-- ![[assets/images/monsters/{{monster-slug}}/{{monster-slug}}-alpha-reference.webp|260]]
-- ![[assets/images/monsters/{{monster-slug}}/{{monster-slug}}-frostbitten-variant-reference.webp|260]]
+- ![[assets/images/monsters/{{monster-slug}}/{{monster-slug}}-alpha-reference.svg|260]]
+- ![[assets/images/monsters/{{monster-slug}}/{{monster-slug}}-frostbitten-variant-reference.svg|260]]
 
-### Metadata Reference
+### Asset Folder / Metadata
 
-- [[{{image_index}}|Image Index]]
+- `{{assetFolder}}`
+- [[{{assetFolder}}index|Image Index]]
 
 ## Encounter Role
 - **Role:** Brute / Skirmisher / Ranged Threat / Spellcaster / Elite / Leader / Predator / Nuisance.
