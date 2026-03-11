@@ -23,12 +23,22 @@ Use approved top-level folders inside the archive:
 
 If the ZIP contains image files at the root (no folders), they will be imported to:
 
-- `assets/images/misc/<zip-name-slug>/`
+- `assets/images/misc/<zip-name-slug>/` (default: one folder per ZIP)
 
 Optional target/path override:
 
 ```bash
 npm run images:import-zips -- --target npcs --path core/drow/female/dark-elf-fantasy-pack-01
+```
+
+If you pass `--target` and `--path`, flat ZIPs still create a `<zip-name-slug>/` folder by default:
+
+- `assets/images/<target>/<path>/<zip-name-slug>/`
+
+Optional override to import flat ZIP files directly into the path (without the extra ZIP slug folder):
+
+```bash
+npm run images:import-zips -- --target npcs --path core/drow/female/dark-elf-fantasy-pack-01 --flat-direct
 ```
 
 ## Troubleshooting
