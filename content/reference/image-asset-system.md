@@ -173,6 +173,28 @@ Examples:
 - `class: warlock` / `subclass: archfey`
 - `class: n/a` / `subclass: n/a` / `role: tavern-dweller` / `archetype: urban-commoner`
 
+## 8) Bulk ZIP Import Workflow
+
+For large drops of image packs, use the ZIP importer script:
+
+1. Place ZIP files in `imports/zips/`.
+2. Ensure each ZIP uses one or more approved top-level folders only:
+   - `npcs/`
+   - `monsters/`
+   - `locations/`
+   - `items/`
+   - `factions/`
+   - `misc/`
+3. Run: `npm run images:import-zips`
+4. Confirm extracted files landed under `assets/images/...`
+5. Update related `index.md` metadata pages for newly imported sets.
+
+Validation guardrails:
+
+- Rejects empty ZIP archives.
+- Rejects path traversal entries (unsafe `../` style paths).
+- Rejects archives with unsupported top-level folders.
+
 ## Related
 
 - [[reference/npc-image-gallery|NPC Image Gallery]]
@@ -180,3 +202,4 @@ Examples:
 - [[templates/person-npc-template|Person NPC Template]]
 - [[templates/npc-image-asset-index-template|NPC Image Asset Index Template]]
 - [[reference/midjourney-prompt-library|MidJourney Prompt Library]]
+- [[reference/zip-image-import|ZIP Image Import]]
