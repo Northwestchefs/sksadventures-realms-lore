@@ -21,7 +21,8 @@
     "srd:seed": "node scripts/srd/seed-reference.mjs",
     "npc:srd-reference": "node scripts/npc/print-srd-npc-reference.mjs",
     "npc:check-statblocks": "node scripts/npc/validate-import-statblocks.mjs",
-    "entity:validate-images": "python3 scripts/entities/validate-entity-image-schema.py"
+    "entity:validate-images": "python3 scripts/entities/validate-entity-image-schema.py",
+    "images:import-zips": "node scripts/assets/import-image-zips.mjs"
   },
   "engines": {
     "npm": ">=10.9.2",
