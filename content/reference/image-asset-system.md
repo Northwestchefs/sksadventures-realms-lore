@@ -77,17 +77,31 @@ creatureType: beast # monsters only
 
 Legacy fields like `primary_image`, `token_image`, and `alternate_images` can remain for compatibility.
 
-## 4) Entity Note Fields
+## 4) Entity Page Canonical Fields
 
-On NPC/monster entity pages, keep these fields for in-note rendering:
+Use one lean, parser-friendly schema on NPC and monster entity pages:
 
 ```yaml
-image_primary: assets/images/.../main-image.webp
-image_token: assets/images/.../token.png
-image_gallery:
-  - assets/images/.../alt-image.webp
-image_index: assets/images/.../index.md
+image: assets/images/.../main-image.svg
+imageRole: portrait # NPC default; monsters usually reference
+tokenImage: assets/images/.../token.svg # optional
+alternateImages:
+  - assets/images/.../alt-image.svg # optional list
+assetFolder: assets/images/<type>/<slug>/
+tags: [npc, scout]
+faction: harpers # NPC optional
+region: sword-coast # optional
+status: active
+creatureType: beast # monster only
 ```
+
+### Canonical rules for automation
+
+- `image` is the canonical primary image field for entity pages.
+- `tokenImage` is the canonical token handout/VTT token field.
+- `alternateImages` is the canonical list for form, scene, and extra references.
+- `assetFolder` must be a trailing-slash folder path (`assets/images/npcs/<slug>/`) so scripts can resolve `index.md` as `{{assetFolder}}index.md`.
+- Keep asset-folder `index.md` frontmatter aligned with entity note fields for gallery consistency.
 
 ## 5) Embedding in Obsidian Notes
 
@@ -122,7 +136,7 @@ Both pages include:
 1. Create `assets/images/npcs/<npc-slug>/`.
 2. Add art files with role-based names.
 3. Create/update `assets/images/npcs/<npc-slug>/index.md` with gallery frontmatter fields.
-4. Update `content/people/<npc-slug>.md` image frontmatter and `## Image` section.
+4. Update `content/people/<npc-slug>.md` with canonical image frontmatter (`image`, `tokenImage`, `alternateImages`, `assetFolder`) and `## Image` embeds.
 5. Add the NPC card to [[reference/npc-image-gallery|NPC Image Gallery]] if maintaining manual view.
 
 ### Add a new monster image set
@@ -131,7 +145,7 @@ Both pages include:
 2. Add art files with role-based names.
 3. Create/update `assets/images/monsters/<monster-slug>/index.md` with gallery frontmatter fields.
 4. Set `creatureType` for category browsing.
-5. Update `content/monsters/<monster-slug>.md` image frontmatter and `## Image` section.
+5. Update `content/monsters/<monster-slug>.md` with canonical image frontmatter and set `creatureType` for parsing.
 6. Add the monster card to [[reference/monster-image-gallery|Monster Image Gallery]] if maintaining manual view.
 
 ## Related
@@ -140,3 +154,13 @@ Both pages include:
 - [[templates/monster-template|Monster Template]]
 - [[people/raelin-silverleaf|NPC Image Example]]
 - [[monsters/winter-wolf|Monster Image Example]]
+
+
+## 8) Monster Variants and Multi-Form Handling
+
+For monsters with multiple forms, keep one canonical page and one asset folder:
+
+- Keep the baseline art in `image` (usually `reference`).
+- Put each variant/form image in `alternateImages`.
+- Keep token-ready forms in `tokenImage` when one token works for all forms; if forms need separate tokens, include them in `alternateImages` with clear filenames (`<slug>-alpha-token.svg`).
+- If variant mechanics are substantial, split mechanics into separate monster notes and keep each note pointed at its own `assetFolder`.

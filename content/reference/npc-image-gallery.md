@@ -63,7 +63,7 @@ Use this fallback section for guaranteed compatibility.
    - `tags: [npc, ...]`
    - `faction:` and `region:` when useful
    - `status: active` (or draft/retired)
-4. Add `image_primary` and `image_index` to the NPC note.
+4. Add canonical fields to the NPC note: `image`, `tokenImage`, `alternateImages`, and `assetFolder`.
 5. Add one manual card here (until Dataview is relied on full-time).
 
 ## Related

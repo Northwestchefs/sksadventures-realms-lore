@@ -1,14 +1,18 @@
 ---
 title: Raelin Silverleaf
+image: assets/images/npcs/raelin-silverleaf/raelin-silverleaf-portrait.svg
+imageRole: portrait
+tokenImage: assets/images/npcs/raelin-silverleaf/raelin-silverleaf-token.svg
+alternateImages:
+  - assets/images/npcs/raelin-silverleaf/raelin-silverleaf-fullbody-v1.svg
+assetFolder: assets/images/npcs/raelin-silverleaf/
 tags:
   - npc
   - scout
   - sword-coast
-image_primary: assets/images/npcs/raelin-silverleaf/raelin-silverleaf-portrait.svg
-image_token: assets/images/npcs/raelin-silverleaf/raelin-silverleaf-token.svg
-image_gallery:
-  - assets/images/npcs/raelin-silverleaf/raelin-silverleaf-fullbody-v1.svg
-image_index: assets/images/npcs/raelin-silverleaf/index.md
+faction: harpers
+region: sword-coast
+status: active
 ---
 
 # Raelin Silverleaf
@@ -28,16 +32,17 @@ A half-elf outrider used by caravan masters when roads turn political and danger
 
 ## Image
 
-### Primary
+### Primary Portrait
 ![[assets/images/npcs/raelin-silverleaf/raelin-silverleaf-portrait.svg|320]]
 
-### Token
+### Token (Optional)
 ![[assets/images/npcs/raelin-silverleaf/raelin-silverleaf-token.svg|160]]
 
-### Gallery
+### Alternate References (Optional)
 - ![[assets/images/npcs/raelin-silverleaf/raelin-silverleaf-fullbody-v1.svg|260]]
 
-### Metadata
+### Asset Folder / Metadata
+- `assets/images/npcs/raelin-silverleaf/`
 - [[assets/images/npcs/raelin-silverleaf/index|Raelin Silverleaf Image Index]]
 
 ## Import Statblock
