@@ -63,6 +63,7 @@ This batch focuses on a coherent [[landmarks/undermountain|Undermountain]] ecosy
 - Use local SRD naming from `static/data/srd/reference.json` for skills, damage types, conditions, and languages.
 - Reuse recognizable 5e mechanical phrasing for parser-friendly importer workflows.
 - Follow [[reference/image-asset-system|Image Asset System]] for role-based image naming and variant handling.
+- Browse art references in [[reference/monster-image-gallery|Monster Image Gallery]].
 
 ## Related
 - [[landmarks/index|Landmarks]]

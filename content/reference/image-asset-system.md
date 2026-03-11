@@ -4,6 +4,7 @@ tags:
   - reference
   - images
   - workflow
+status: active
 ---
 
 # Image Asset System
@@ -26,11 +27,6 @@ Use one slug folder per NPC or monster:
 - `assets/images/npcs/<slug>/`
 - `assets/images/monsters/<slug>/`
 
-Examples:
-
-- `assets/images/npcs/raelin-silverleaf/`
-- `assets/images/monsters/winter-wolf/`
-
 ## 2) Naming Convention
 
 Use lowercase kebab-case filenames.
@@ -50,59 +46,50 @@ Roles:
 - `scene`
 - `variant`
 
-Recommended extensions:
+## 3) Frontmatter Conventions (Gallery-Friendly)
 
-- `.webp` for most art
-- `.png` for tokens with transparency
-- `.jpg` for photo-like source material
-- `.svg` for placeholders/diagrams
-
-Examples:
-
-- `raelin-silverleaf-portrait.webp`
-- `raelin-silverleaf-fullbody-v1.webp`
-- `baby-unicorn-reference.webp`
-- `dark-fey-dryad-token.png`
-- `winter-wolf-alpha-reference.webp`
-- `winter-wolf-frostbitten-variant-reference.webp`
-
-## 3) Metadata Pattern (Markdown-Native)
-
-Use both layers:
-
-1. **Entity note frontmatter** for fast lookup in play.
-2. **Asset folder `index.md`** for reusable image metadata.
-
-### Entity note frontmatter fields
-
-```yaml
-image_primary: assets/images/npcs/raelin-silverleaf/raelin-silverleaf-portrait.webp
-image_token: assets/images/npcs/raelin-silverleaf/raelin-silverleaf-token.png
-image_gallery:
-  - assets/images/npcs/raelin-silverleaf/raelin-silverleaf-fullbody-v1.webp
-image_index: assets/images/npcs/raelin-silverleaf/index.md
-```
-
-### Asset folder `index.md` fields
+Use these fields on asset folder `index.md` notes so visual galleries can generate consistently.
 
 ```yaml
 entity_type: npc | monster
 entity_slug: raelin-silverleaf
 entity_note: people/raelin-silverleaf
-primary_image: assets/images/npcs/raelin-silverleaf/raelin-silverleaf-portrait.webp
-token_image: assets/images/npcs/raelin-silverleaf/raelin-silverleaf-token.png
-alternate_images:
-  - assets/images/npcs/raelin-silverleaf/raelin-silverleaf-fullbody-v1.webp
-source_notes: Prompt/source/license notes for internal tracking
+image: assets/images/npcs/raelin-silverleaf/raelin-silverleaf-portrait.webp
+imageRole: portrait
 tags:
   - npc
-  - fae
-  - starlight-enclave
+  - scout
+faction: harpers
+region: sword-coast
+status: active
+creatureType: beast # monsters only
 ```
 
-Keep metadata concise and contributor-readable.
+### Field notes
 
-## 4) Embedding in Obsidian Notes
+- `image`: primary gallery image to embed.
+- `imageRole`: what that image is for (`portrait`, `reference`, `token`, etc.).
+- `tags`: compact discoverability labels.
+- `faction`: optional faction tie.
+- `region`: optional primary region.
+- `status`: `active`, `draft`, or `retired`.
+- `creatureType`: monster category (`beast`, `undead`, `fey`, `monstrosity`, `dragon`, `humanoid`).
+
+Legacy fields like `primary_image`, `token_image`, and `alternate_images` can remain for compatibility.
+
+## 4) Entity Note Fields
+
+On NPC/monster entity pages, keep these fields for in-note rendering:
+
+```yaml
+image_primary: assets/images/.../main-image.webp
+image_token: assets/images/.../token.png
+image_gallery:
+  - assets/images/.../alt-image.webp
+image_index: assets/images/.../index.md
+```
+
+## 5) Embedding in Obsidian Notes
 
 Preferred embed format:
 
@@ -110,39 +97,42 @@ Preferred embed format:
 ![[assets/images/npcs/raelin-silverleaf/raelin-silverleaf-portrait.webp|320]]
 ```
 
-Fallback Markdown image link:
+Fallback Markdown format:
 
 ```md
 ![Raelin Silverleaf portrait](../../assets/images/npcs/raelin-silverleaf/raelin-silverleaf-portrait.webp)
 ```
 
-## 5) Multiple Images and Galleries
+## 6) Visual Browsing Pages
 
-Use one primary image, then list alternates in an image section.
+Use these indexes for image-first browsing:
 
-- `image_primary` = default visual in note header/overview area.
-- `image_token` = VTT token-ready image.
-- `image_gallery` = optional alternates, scenes, form changes.
-- `image_index` = companion metadata note in asset folder.
+- [[reference/npc-image-gallery|NPC Image Gallery]]
+- [[reference/monster-image-gallery|Monster Image Gallery]]
 
-## 6) Monster-Builder Ready Conventions
+Both pages include:
 
-For monsters, keep slug and variant naming parse-friendly:
+- Optional Dataview examples.
+- Manual Markdown fallback cards (plugin-light workflow).
 
-- base: `winter-wolf`
-- form: `winter-wolf-alpha`
-- variant: `winter-wolf-frostbitten-variant`
+## 7) Quick Add Workflow
 
-This supports future automation for statblock pages, compendium generation, and Foundry-facing pipelines.
+### Add a new NPC image set
 
-## 7) Contributor Checklist
+1. Create `assets/images/npcs/<npc-slug>/`.
+2. Add art files with role-based names.
+3. Create/update `assets/images/npcs/<npc-slug>/index.md` with gallery frontmatter fields.
+4. Update `content/people/<npc-slug>.md` image frontmatter and `## Image` section.
+5. Add the NPC card to [[reference/npc-image-gallery|NPC Image Gallery]] if maintaining manual view.
 
-- Create or reuse entity slug.
-- Place image file(s) under matching folder.
-- Follow naming pattern and role suffix.
-- Update entity note frontmatter + `## Image` section.
-- Create/update `assets/images/<type>/<slug>/index.md` metadata.
-- Keep source/prompt notes short and practical.
+### Add a new monster image set
+
+1. Create `assets/images/monsters/<monster-slug>/`.
+2. Add art files with role-based names.
+3. Create/update `assets/images/monsters/<monster-slug>/index.md` with gallery frontmatter fields.
+4. Set `creatureType` for category browsing.
+5. Update `content/monsters/<monster-slug>.md` image frontmatter and `## Image` section.
+6. Add the monster card to [[reference/monster-image-gallery|Monster Image Gallery]] if maintaining manual view.
 
 ## Related
 

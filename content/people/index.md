@@ -75,6 +75,7 @@ Public figures, rulers, and influential operators likely to matter in play.
   10. Related Links
 - Follow [[reference/npc-import-standard|NPC Import Statblock Standard]] for exact formatting and field order.
 - Follow [[reference/image-asset-system|Image Asset System]] for image paths, naming, and metadata fields.
+- Browse art references in [[reference/npc-image-gallery|NPC Image Gallery]].
 - Use [[reference/npc-srd-workflow|NPC SRD Reference Workflow]] for local SRD-backed mechanics terminology.
 - Run `npm run npc:check-statblocks` when updating NPC mechanics to keep terms aligned to the local SRD cache.
 - Keep the **Import Statblock** plain-text only, in a fenced `text` block, with no lore mixed into mechanics.
