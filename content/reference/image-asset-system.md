@@ -173,6 +173,27 @@ Examples:
 - `class: warlock` / `subclass: archfey`
 - `class: n/a` / `subclass: n/a` / `role: tavern-dweller` / `archetype: urban-commoner`
 
+## 8) Bulk ZIP Import Workflow
+
+For large drops of image packs, use the ZIP importer script:
+
+1. Place ZIP files in `imports/zips/`.
+2. Choose ZIP style:
+   - **Structured ZIP:** top-level folders are one or more of `npcs/`, `monsters/`, `locations/`, `items/`, `factions/`, `misc/`.
+   - **Flat ZIP:** images at archive root (no folders) are auto-imported to `assets/images/misc/<zip-name-slug>/`.
+3. Run: `npm run images:import-zips`
+4. Optional override for flat ZIP destination:
+   - `npm run images:import-zips -- --target npcs --path core/drow/female/dark-elf-fantasy-pack-01`
+5. Confirm extracted files landed under `assets/images/...`
+6. Update related `index.md` metadata pages for newly imported sets.
+
+Validation guardrails:
+
+- Rejects empty ZIP archives.
+- Rejects path traversal entries (unsafe `../` style paths).
+- For flat ZIPs, accepts image file types only (`.png`, `.jpg`, `.jpeg`, `.webp`, `.gif`, `.svg`, `.avif`).
+- Rejects structured archives with unsupported top-level folders.
+
 ## Related
 
 - [[reference/npc-image-gallery|NPC Image Gallery]]
@@ -180,3 +201,4 @@ Examples:
 - [[templates/person-npc-template|Person NPC Template]]
 - [[templates/npc-image-asset-index-template|NPC Image Asset Index Template]]
 - [[reference/midjourney-prompt-library|MidJourney Prompt Library]]
+- [[reference/zip-image-import|ZIP Image Import]]
